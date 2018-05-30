@@ -1,0 +1,88 @@
+[colors]
+none = #FFF0
+background = ${xrdb:background}
+foreground = ${xrdb:foreground}
+
+[bar/base]
+height = 25
+bottom = true
+fixed-center = false
+module-margin = 8
+offset-y = 10
+
+background = ${colors.none}
+foreground = ${colors.foreground}
+
+font-0 = "lucy tewi:size=10;2"
+font-1 = "Font Awesome 5 Free:size=10;2"
+
+modules-center = bspwm mpd date volume
+
+[module/date]
+type = internal/date
+
+interval = 1.0
+
+date = "%B%e"
+date-alt = "%H:%M"
+
+format =   <label>
+format-padding = 2
+format-background = ${xrdb:color3}
+format-foreground = ${colors.background}
+
+label = %date%
+label-padding = 2
+label-background = ${colors.background}
+label-foreground = ${colors.foreground}
+
+[module/bspwm]
+type = internal/bspwm
+
+ws-icon-default = 
+label-focused = 
+label-occupied = 
+label-urgent = %icon%
+label-empty = %icon%
+label-focused-foreground  = ${colors.background}
+label-dimmed-foreground   = ${colors.foreground}
+label-occupied-foreground = ${colors.foreground}
+label-urgent-foreground   = ${colors.foreground}
+label-empty-foreground    = ${colors.foreground}
+
+label-focused-padding  = 2
+label-occupied-padding = 2
+label-urgent-padding   = 2
+label-empty-padding    = 2
+label-focused-background  = ${xrdb:color1}
+label-occupied-background = ${colors.background}
+label-urgent-background   = ${colors.background}
+label-empty-background    = ${colors.background}
+
+[module/mpd]
+type = internal/mpd
+host = 127.0.0.1
+
+; /!\ the line below has a zero-width space right after the first quotation mark /!\
+format-online = "​  <icon-prev>  <toggle>  <icon-next>  <label-song> "
+
+format-online-background = ${xrdb:color2}
+format-online-foreground = ${colors.background}
+format-online-padding = 0
+
+label-song = %artist% - %title%
+label-song-foreground = ${colors.foreground}
+label-song-background = ${colors.background}
+label-song-padding = 2
+
+toggle-on-foreground = ${colors.background}
+toggle-off-foreground = ${colors.background}
+
+
+icon-play = 
+icon-pause = 
+icon-stop = 
+icon-prev = ⏮
+icon-next = ⏭
+
+
