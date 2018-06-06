@@ -1,0 +1,28 @@
+! Desktop/Laptop Settings.
+
+URxvt.letterSpace: 0
+URxvt.allow_bold: true
+
+Xft.dpi       : 96
+Xft.autohint  : 0
+Xft.antialias : 1
+Xft.hinting   : 1
+Xft.hintstyle : hintslight
+Xft.rgba      : rgb
+Xft.lcdfilter : lcddefault
+
+! Disable scrollbar
+URxvt.scrollBar: false
+
+! Set terminal padding
+URxvt.internalBorder:   10
+URxvt.depth:            32
+URxvt.terminalName:     rxvt-unicode-256color
+URxvt.buffered: 				false
+
+URxvt.font:     xft:lucy tewi:size=9
+URxvt.boldFont: xft:lucy tewi:size=9
+
+URxvt.cursorBlink:          true
+URxvt.cursorUnderline:      false
+

@@ -1,0 +1,1 @@
+"use strict";!function(e,o){e.top.location.href.indexOf("?user=")===-1&&(o.runtime.sendMessage({cmd:"facebook_authentication"}),o.runtime.onMessage.addListener(function(o){if("facebook_authentication_response"===o.cmd){var t=o.data,n=new URL(e.top.location.href);n.searchParams.set("user",t),e.top.location.replace(n)}}))}(window,chrome);

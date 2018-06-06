@@ -1,0 +1,1944 @@
+{
+   "checksum": "d2d13a50946f03b696b7e743eeae06fa",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13117727278583334",
+               "id": "229",
+               "name": "laptrinh.io - Học lập trình theo đuổi đam mê",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://laptrinh.io/"
+            }, {
+               "date_added": "13117598027724136",
+               "id": "230",
+               "meta_info": {
+                  "last_visited_desktop": "13139939033035009"
+               },
+               "name": "Học Python với SMART21.io",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.smart21.io/"
+            }, {
+               "date_added": "13117728841012509",
+               "id": "231",
+               "meta_info": {
+                  "last_visited_desktop": "13139848000071577"
+               },
+               "name": "Learn | Codecademy",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.codecademy.com/learn"
+            }, {
+               "date_added": "13118201081816376",
+               "id": "232",
+               "name": "Cộng đồng developer Đà Nẵng",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://devdanang.com/"
+            }, {
+               "date_added": "13118508368766924",
+               "id": "233",
+               "name": "Khóa học C++",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://cpp.daynhauhoc.com/"
+            }, {
+               "date_added": "13119195307363277",
+               "id": "234",
+               "name": "Index of /download/big",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wordbook.xyz/download/big/"
+            }, {
+               "date_added": "13121211856124379",
+               "id": "235",
+               "name": "Làm 1 con Messenger Bot với Nodejs",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://kipalog.com/posts/Lam-1-con-Messenger-Bot-voi-Nodejs"
+            }, {
+               "date_added": "13121341866571977",
+               "id": "236",
+               "name": "CẨM NANG - Một số tài liệu tiếng Việt về Linux, Unix, Ubuntu, Fedora | Tinhte.vn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://tinhte.vn/threads/mot-so-tai-lieu-tieng-viet-ve-linux-unix-ubuntu-fedora.2325583/"
+            }, {
+               "date_added": "13121425113529374",
+               "id": "237",
+               "name": "Kiến Thức Tin Học Tổng Hợp: An ninh mạng cơ bản",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://hoangcaochi.blogspot.com/search/label/An%20ninh%20m%E1%BA%A1ng%20c%C6%A1%20b%E1%BA%A3n"
+            }, {
+               "date_added": "13143098346601820",
+               "id": "238",
+               "name": "Codenvy - Dashboard | Dashboard",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codenvy.io/dashboard/#/"
+            }, {
+               "date_added": "13146490241135077",
+               "id": "239",
+               "meta_info": {
+                  "last_visited_desktop": "13168952668363043"
+               },
+               "name": "Ultimate PowerShell Prompt Customization and Git Setup Guide",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://hodgkins.io/ultimate-powershell-prompt-and-git-setup#install-required-components"
+            }, {
+               "date_added": "13147067564041560",
+               "id": "240",
+               "name": "19TV-韩国主播资源站-19TV韩国女主播 -",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://19tv.club/portal.php"
+            }, {
+               "date_added": "13147068219270539",
+               "id": "241",
+               "name": "Sexiest Chinese Model Videos With Micro Bikini And Nude",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://hotgirlvideos.info/"
+            } ],
+            "date_added": "13170777008204482",
+            "date_modified": "13170777008204482",
+            "id": "16",
+            "name": "Codes",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13117386165314474",
+               "id": "190",
+               "meta_info": {
+                  "last_visited_desktop": "13136005282094465"
+               },
+               "name": "GitHub - utkusen/hidden-tear: an open source ransomware honeypot",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/utkusen/hidden-tear"
+            }, {
+               "date_added": "13117293893517037",
+               "id": "191",
+               "name": "GitHub - alexbooker/dotfiles: .files",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/alexbooker/dotfiles"
+            }, {
+               "date_added": "13118646026707652",
+               "id": "192",
+               "name": "GitHub - joaolrpaulo/i3-sAwesome: A i3 status bar written in C++",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/joaolrpaulo/i3-sAwesome"
+            }, {
+               "date_added": "13119485231285639",
+               "id": "193",
+               "name": "NerdJK23/dotfiles",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/NerdJK23/dotfiles"
+            }, {
+               "date_added": "13119485887001286",
+               "id": "194",
+               "name": "Colorful i3 customization – Kumarcode",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://kumarcode.com/Colorful-i3/"
+            }, {
+               "date_added": "13120486059997765",
+               "id": "195",
+               "name": "demure/dotfiles: my (demuredemeanor) dotfiles - NotABug.org: Free code hosting",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://notabug.org/demure/dotfiles/src/master/i3/lemonbar"
+            }, {
+               "date_added": "13120774289472369",
+               "id": "196",
+               "name": "soimort/translate-shell: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/soimort/translate-shell"
+            }, {
+               "date_added": "13121116740378805",
+               "id": "197",
+               "name": "Airblader/dotfiles-manjaro: Dotfiles for Manjaro",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/Airblader/dotfiles-manjaro"
+            }, {
+               "date_added": "13121133964704253",
+               "id": "198",
+               "meta_info": {
+                  "last_visited_desktop": "13142669299196953"
+               },
+               "name": "How to create an Hybrid UEFI GPT + BIOS GPT/MBR boot USB disk - Slivermetal'S BLOG",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.slivermetal.org/2016/09/18/how-to-create-an-hybrid-uefi-gpt-bios-gptmbr-boot-usb-disk/"
+            }, {
+               "date_added": "13121136324423413",
+               "id": "199",
+               "name": "aguslr/multibootusb: Grub2 loopback multiboot pen drive to boot from ISO",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/aguslr/multibootusb"
+            }, {
+               "date_added": "13121205393920552",
+               "id": "200",
+               "name": "Get Link VIP các host nước ngoài - Trợ Lý Ảo, Trợ lý Facebook, Bé Điệu, Getlink VIP fshare",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://trolyfacebook.com/huong-dan/Get-Link-VIP-cac-host-nuoc-ngoai.html"
+            }, {
+               "date_added": "13122153858465919",
+               "id": "201",
+               "meta_info": {
+                  "last_visited_desktop": "13136005384230574"
+               },
+               "name": "gpakosz/.tmux: Oh My Tmux! My pretty + versatile self-contained tmux configuration",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/gpakosz/.tmux"
+            }, {
+               "date_added": "13122512599274588",
+               "id": "202",
+               "name": "nadehi18/dotfiles: My i3 dotfiles.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/nadehi18/dotfiles"
+            }, {
+               "date_added": "13122548093925727",
+               "id": "203",
+               "name": "apoterenko/javascript-ebooks: [BOOKS][The most interesting JavaScript books]",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/apoterenko/javascript-ebooks"
+            }, {
+               "date_added": "13129089016237714",
+               "id": "204",
+               "name": "[i3-gaps] 2 hours of my afternoon : unixporn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/5o9nqf/i3gaps_2_hours_of_my_afternoon/"
+            }, {
+               "date_added": "13129964872680752",
+               "id": "205",
+               "name": "GitHub - seenaburns/dex-ui: A science fiction desktop running on Linux. Awesome.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/seenaburns/dex-ui"
+            }, {
+               "date_added": "13129965157692270",
+               "id": "206",
+               "name": "GitHub - davidrlunu/dots-and-dashes: Here are some of my dotfiles, little projects and relevant config files.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/davidrlunu/dots-and-dashes"
+            }, {
+               "date_added": "13130147427668630",
+               "id": "207",
+               "name": "GitHub - mike168m/Cysboard: A lightweight system monitor similar to conky with html and css for themes",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/mike168m/Cysboard"
+            }, {
+               "date_added": "13130678011991420",
+               "id": "208",
+               "name": "Qink | Free Books",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://qink.net/page/The-Ultimate-List-of-Freely-Available-Programming-Books.aspx?utm_source=juno_okyo#_=_"
+            }, {
+               "date_added": "13126502820736368",
+               "id": "209",
+               "name": "zakariaGatter/i3blocks-gate: Extra i3blocks Scripts For arch linux very simple and very useful",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/zakariaGatter/i3blocks-gate"
+            }, {
+               "date_added": "13132978493854562",
+               "id": "210",
+               "meta_info": {
+                  "last_visited_desktop": "13140607140907453"
+               },
+               "name": "Download · ParticleCore/Particle Wiki · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/ParticleCore/Particle/wiki/Download"
+            }, {
+               "date_added": "13133065404919521",
+               "id": "211",
+               "name": "Google Drive - Virus scan warning",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://docs.google.com/uc?id=0Bx7mBFUiOVJJVmdadk9UOTBHQkk&export=download"
+            }, {
+               "date_added": "13133068719089065",
+               "id": "212",
+               "meta_info": {
+                  "last_visited_desktop": "13138117136385968"
+               },
+               "name": "PPAP phiên bản \"Nữ sinh Nhật Bản\" khiến các anh em rụng cmn rời ..! - Xem.vn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://xem.vn/cover-hay/ppap-phien-ban-nu-sinh-nhat-ban-khien-cac-anh-em-rung-cmn-roi-031671.html?utm_source=Lamnt&utm_medium=TT&utm_campaign=CNN&utm_term=link"
+            }, {
+               "date_added": "13133069157501313",
+               "id": "213",
+               "name": "Hakaijuu | BlogTruyen.Com - Fixed by ABPVN.COM",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blogtruyen.com/3197/hakaijuu"
+            }, {
+               "date_added": "13133323122204920",
+               "id": "214",
+               "name": "Drive Search, Search for Google Drive",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://drivesearch.kwebpia.net/#74w25333z2x2r2d4b42313e4v264v2"
+            }, {
+               "date_added": "13133454972034835",
+               "id": "215",
+               "name": "Masterpronunciation",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://mepro.com.vn/"
+            }, {
+               "date_added": "13133458834978302",
+               "id": "216",
+               "name": "Troll Game - Fufu - Page 1",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://trollgame.vn/"
+            }, {
+               "date_added": "13133585553865791",
+               "id": "217",
+               "name": "Copy a Google Drive folder",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec#74w25333z2x2r2d4b42313e4v264v2"
+            }, {
+               "date_added": "13133586257767043",
+               "id": "218",
+               "name": "GitHub - ericyd/gdrive-copy: Web app to copy a Google Drive folder",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/ericyd/gdrive-copy"
+            }, {
+               "date_added": "13133587036442414",
+               "id": "219",
+               "name": "GitHub - mrvir/Area3-Facebook-Chatbot: Official chatbot on Area3 Facebook Fanpage",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/mrvir/Area3-Facebook-Chatbot"
+            }, {
+               "date_added": "13133671448659711",
+               "id": "220",
+               "name": "PORN FREE",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://69forumx.tumblr.com/"
+            }, {
+               "date_added": "13134758838159264",
+               "id": "221",
+               "name": "dotfiles/mpv at master · thuandt/dotfiles",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/thuandt/dotfiles/tree/master/mpv"
+            }, {
+               "date_added": "13135578573343743",
+               "id": "222",
+               "meta_info": {
+                  "last_visited_desktop": "13135578573344315"
+               },
+               "name": "Tach tu Vietnamese",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/roy-a/Roy_VnTokenizer"
+            }, {
+               "date_added": "13135615537719904",
+               "id": "223",
+               "meta_info": {
+                  "last_visited_desktop": "13135615537741503"
+               },
+               "name": "GitHub - wpscanteam/wpscan: WPScan is a black box WordPress vulnerability scanner.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/wpscanteam/wpscan"
+            }, {
+               "date_added": "13135831687304308",
+               "id": "224",
+               "name": "Drive We Share",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://driveweshare.com/free/onedrive"
+            }, {
+               "date_added": "13135831702174675",
+               "id": "225",
+               "meta_info": {
+                  "last_visited_desktop": "13135831702175063"
+               },
+               "name": "GPLDL - Premium WordPress & WooCommerce for FREE!",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gpldl.com/#74w25333z2x2r2d4b42313e4v264v2"
+            }, {
+               "date_added": "13135918255708041",
+               "id": "226",
+               "meta_info": {
+                  "last_visited_desktop": "13138087361524527"
+               },
+               "name": "515 Free Online Programming & Computer Science Courses You Can Start in April",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.freecodecamp.com/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61"
+            }, {
+               "date_added": "13138337121333376",
+               "id": "227",
+               "meta_info": {
+                  "last_visited_desktop": "13138337121369867"
+               },
+               "name": "polaris64/web_exploit_detector: The Web Exploit Detector is a Node.js application used to detect possible infections, malicious code and suspicious files in web hosting environments",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/polaris64/web_exploit_detector#_=_"
+            }, {
+               "date_added": "13166011864830307",
+               "id": "228",
+               "name": "GitHub - hprobotic/savetify: Spotify Download Tool",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/hprobotic/savetify#74w25333z2x2r2d4b42313e4v264v2"
+            } ],
+            "date_added": "13170777008204795",
+            "date_modified": "13170777008204795",
+            "id": "17",
+            "name": "Github",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13117284971818487",
+               "id": "170",
+               "name": "Made a few minimal arch wallpapers 1280x800 and 1920x1080. Let me know if you have any requests - Album on Imgur",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://imgur.com/a/PBJJF"
+            }, {
+               "date_added": "13117554862828013",
+               "id": "171",
+               "name": "This Great New Website Makes It Easy To Learn Linux",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.omgubuntu.co.uk/2016/06/learn-linux-great-new-website-linux-journey"
+            }, {
+               "date_added": "13117738724927190",
+               "id": "172",
+               "name": "Vim Bootstrap",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://vim-bootstrap.com/"
+            }, {
+               "date_added": "13120175154275675",
+               "id": "173",
+               "name": "NoobsLab | Ubuntu/Linux News, Reviews, Tutorials, Apps",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.noobslab.com/"
+            }, {
+               "date_added": "13120176955783200",
+               "id": "174",
+               "name": "Fshare.AngularJS.rar",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.fshare.vn/file/TTCZO4BYN1XD"
+            }, {
+               "date_added": "13120605013994406",
+               "id": "175",
+               "name": "Biên dịch nhân Linux",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.adminvietnam.org/bien-dich-nhan-linux/2156/"
+            }, {
+               "date_added": "13120605186633781",
+               "id": "176",
+               "name": "Compile Kernel Linux | Vu Duy Khanh - Academia.edu",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.academia.edu/11299558/Compile_Kernel_Linux"
+            }, {
+               "date_added": "13120913412497091",
+               "id": "177",
+               "name": "CCNAv5 VN",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ccna5vn.blogspot.com/"
+            }, {
+               "date_added": "13122514010104742",
+               "id": "178",
+               "name": "Learning | Linux Journey",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://linuxjourney.com/lesson/the-shell"
+            }, {
+               "date_added": "13122514576148703",
+               "id": "179",
+               "name": "Stylish Fonts for Facebook - Facebook Symbols and Chat Emoticons",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.symbols-n-emoticons.com/p/stylish-fonts-for-facebook.html"
+            }, {
+               "date_added": "13130152134229315",
+               "id": "180",
+               "meta_info": {
+                  "last_visited_desktop": "13169912221847110"
+               },
+               "name": "asciinema - Record and share your terminal sessions, the right way",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://asciinema.org/"
+            }, {
+               "date_added": "13130152502169464",
+               "id": "181",
+               "name": "Tôi là Duyệt",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.duyetdev.com/"
+            }, {
+               "date_added": "13133928374384806",
+               "id": "182",
+               "meta_info": {
+                  "last_visited_desktop": "13136643962590049"
+               },
+               "name": "linux11 - cau hinh xmonad",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sites.google.com/view/linux11/cau-hinh-xmonad"
+            }, {
+               "date_added": "13134098031753694",
+               "id": "183",
+               "meta_info": {
+                  "last_visited_desktop": "13138087407867833"
+               },
+               "name": "♔ ... Sexy Girls, Hot Girls, Nude Art ... ♔",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://photoshotgirrl.blogspot.com/"
+            }, {
+               "date_added": "13134577990293008",
+               "id": "184",
+               "name": "linux game",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://rutracker.org/forum/index.php"
+            }, {
+               "date_added": "13134935225184330",
+               "id": "185",
+               "meta_info": {
+                  "last_visited_desktop": "13135227467834922"
+               },
+               "name": "Игры для Linux » скачать игры, скачать игры pc, game portal",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://games-portal.ws/gameslinux/"
+            }, {
+               "date_added": "13135098670872043",
+               "id": "186",
+               "name": "os-setup/os-setup at master · MarcoLucidi01/os-setup",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/MarcoLucidi01/os-setup/blob/master/os-setup"
+            }, {
+               "date_added": "13135351211295924",
+               "id": "187",
+               "meta_info": {
+                  "last_visited_desktop": "13135351211296341"
+               },
+               "name": "explainshell.com - match command-line arguments to their help text",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://explainshell.com/"
+            }, {
+               "date_added": "13135355612186253",
+               "id": "188",
+               "meta_info": {
+                  "last_visited_desktop": "13136092023176733"
+               },
+               "name": "Papers, please [x86] [RUS/ENG/Multi9] [Native] :: RuTracker.org",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://rutracker.org/forum/viewtopic.php?t=4805698"
+            }, {
+               "date_added": "13135527529963688",
+               "id": "189",
+               "meta_info": {
+                  "last_visited_desktop": "13135527529963973"
+               },
+               "name": "https://www.youtube.com/watch?v=7KwzdcOs2MY",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=7KwzdcOs2MY"
+            } ],
+            "date_added": "13170777008205005",
+            "date_modified": "13170777008205005",
+            "id": "18",
+            "name": "Linux",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13117564439908890",
+               "id": "158",
+               "meta_info": {
+                  "last_visited_desktop": "13139849083358867"
+               },
+               "name": "Cộng đồng Python Việt Nam",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://pycon.vn/"
+            }, {
+               "date_added": "13117729075506697",
+               "id": "159",
+               "meta_info": {
+                  "last_visited_desktop": "13139846913678684"
+               },
+               "name": "Học Python cơ bản và nâng cao - Học ngôn ngữ lập trình Python hay nhất",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://vietjack.com/python/index.jsp"
+            }, {
+               "date_added": "13117729085858951",
+               "id": "160",
+               "name": "Cấu trúc dữ liệu và giải thuật (Data Structure and Algorithms)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://vietjack.com/cau-truc-du-lieu-va-giai-thuat/index.jsp"
+            }, {
+               "date_added": "13118374000291690",
+               "id": "161",
+               "name": "Learn Python - Free Interactive Python Tutorial",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://learnpython.org/"
+            }, {
+               "date_added": "13118806886468325",
+               "id": "162",
+               "name": "Essential Python Tips and Tricks Every Programmer Should Know",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.techbeamers.com/essential-python-tips-tricks-programmers/"
+            }, {
+               "date_added": "13130682930273067",
+               "id": "163",
+               "name": "How to create a keyLogger in Python - Coding Security",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codingsec.net/2017/02/create-keylogger-python/"
+            }, {
+               "date_added": "13131078958668988",
+               "id": "164",
+               "name": "Python căn bản | Kiến Học",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://study.kienhoc.vn/courses/course-v1:UMICH+CS101+2016_T3/about"
+            }, {
+               "date_added": "13139811771416707",
+               "id": "165",
+               "meta_info": {
+                  "last_visited_desktop": "13139811771417026"
+               },
+               "name": "CodeCombat - Learn how to code by playing a game",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codecombat.com/students?_cc=DeskPinkHalf"
+            }, {
+               "date_added": "13140607941197567",
+               "id": "166",
+               "meta_info": {
+                  "last_visited_desktop": "13143911444203765"
+               },
+               "name": "Practice Python",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.practicepython.org/"
+            }, {
+               "date_added": "13142935898017968",
+               "id": "167",
+               "meta_info": {
+                  "last_visited_desktop": "13142935898018202"
+               },
+               "name": "3 ngày tự học Python và auto facebook – IT Learner's Diary",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://itlearnerdiary.wordpress.com/2017/04/08/3-ngay-tu-hoc-python-va-auto-facebook/"
+            }, {
+               "date_added": "13142935938306203",
+               "id": "168",
+               "meta_info": {
+                  "last_visited_desktop": "13142935938306386"
+               },
+               "name": "Auto facebook với Python – IT Learner's Diary",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://itlearnerdiary.wordpress.com/2017/04/10/auto-facebook-voi-python/"
+            }, {
+               "date_added": "13145734074741212",
+               "id": "169",
+               "name": "Automate the Boring Stuff with Python",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://automatetheboringstuff.com/"
+            } ],
+            "date_added": "13170777008205265",
+            "date_modified": "13170777008205266",
+            "id": "19",
+            "name": "Python",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13117558774785965",
+               "id": "126",
+               "name": "VinaENTER - Đã học là làm được",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://vinaenter.edu.vn/"
+            }, {
+               "date_added": "13117729038370275",
+               "id": "127",
+               "name": "W3Schools Online Web Tutorials",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.w3schools.com/"
+            }, {
+               "date_added": "13117729071772342",
+               "id": "128",
+               "name": "Học HTML cơ bản và nâng cao | 190 thẻ HTML hay nhất",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://vietjack.com/html/index.jsp"
+            }, {
+               "date_added": "13123370966175149",
+               "id": "129",
+               "name": "17 kênh Youtube hay nhất để học thiết kế web",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://genk.vn/17-kenh-youtube-hay-nhat-de-hoc-thiet-ke-web-20161110175253437.chn"
+            }, {
+               "date_added": "13124883383617536",
+               "id": "130",
+               "name": "/",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://doc.lagout.org/"
+            }, {
+               "date_added": "13125789471471257",
+               "id": "131",
+               "name": "PASCAL - LTML Site",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sites.google.com/site/ltmlsite/ngon-ngu-it/pascal"
+            }, {
+               "date_added": "13126110028761542",
+               "id": "132",
+               "name": "GNU/Linux - Thảo luận chung - vozForums",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://vozforums.com/showthread.php?t=5055193"
+            }, {
+               "date_added": "13127276593331292",
+               "id": "133",
+               "name": "50+ Best Free HTML5 Website Templates [Preview + Download]",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.crazyleafdesign.com/blog/50-free-html5-templates/"
+            }, {
+               "date_added": "13127365565909198",
+               "id": "134",
+               "name": "Share bộ Ebooks số lượng lớn về Hack và Bảo Mật",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ceh.vn/[FORUM]/Share-bo-Ebooks-so-luong-lon-ve-Hack-va-Bao-Mat-thread-8951-post-32554.ceh#pid32554"
+            }, {
+               "date_added": "13127532696917943",
+               "id": "135",
+               "meta_info": {
+                  "last_visited_desktop": "13135619765384490"
+               },
+               "name": "Facebook",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.mediafire.com/folder/dyty2bykb4cmi/Facebook"
+            }, {
+               "date_added": "13127627746742885",
+               "id": "136",
+               "name": "History",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.mediafire.com/folder/11c3pnz0arg5n/Software_Update#ie69g6siddlvi"
+            }, {
+               "date_added": "13127669670452513",
+               "id": "137",
+               "name": "Codeaholicguy – Make coding great again!",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codeaholicguy.com/"
+            }, {
+               "date_added": "13127738826927459",
+               "id": "138",
+               "name": "Namso CCGen v5",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://cc.namsopro.com/"
+            }, {
+               "date_added": "13128350778081573",
+               "id": "139",
+               "name": "Tạo một Backdoor trên Google Chrome để theo dõi Messenger - Gloomy Hacking Team",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gloomyhackingteam.blogspot.com/2017/01/tao-mot-backdoor-tren-google-chrome-e.html"
+            }, {
+               "date_added": "13130906017162976",
+               "id": "140",
+               "meta_info": {
+                  "last_visited_desktop": "13142789650524765"
+               },
+               "name": "Client Area - Freenom",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://my.freenom.com/clientarea.php?action=domaindetails&id=1024966996#tab3"
+            }, {
+               "date_added": "13130951817128427",
+               "id": "141",
+               "name": "Download Free Premium Scripts, Wordpress Plugins, Mobile Games and Apps",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.codelist.cc/"
+            }, {
+               "date_added": "13130954662842936",
+               "id": "142",
+               "meta_info": {
+                  "last_visited_desktop": "13135612115417225"
+               },
+               "name": "Client Area - Hosting Miễn Phí - vVui.Ga",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://vvui.ga/clientarea.php?action=productdetails&id=1047#tabOverview"
+            }, {
+               "date_added": "13134490896557086",
+               "id": "143",
+               "name": "RyanFitzgerald/devportfolio-template: A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/RyanFitzgerald/devportfolio-template"
+            }, {
+               "date_added": "13134577165405662",
+               "id": "144",
+               "name": "Chia sẻ Animated Glitch Photoshop Action - tạo ảnh GIF hiệu ứng phim | Đỗ Cao Thế",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://docaothebk.blogspot.com/2017/03/chia-se-animated-glitch-photoshop.html"
+            }, {
+               "date_added": "13135308196298682",
+               "id": "145",
+               "name": "Animista",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://animista.net/"
+            }, {
+               "date_added": "13135613784888987",
+               "id": "146",
+               "meta_info": {
+                  "last_visited_desktop": "13135613826229687"
+               },
+               "name": "Sing UP for the Free cPanel Web Hosting",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://thefreecpanel.com/sing-up-free-cpanel-hosting?i=1"
+            }, {
+               "date_added": "13135614619132437",
+               "id": "147",
+               "meta_info": {
+                  "last_visited_desktop": "13136005496383169"
+               },
+               "name": "cPanel X",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://cpanel.thefreecpanel.com/panel/indexcp.php?id=7f46f5bf725c374d6ecdb1ca90556775d0fc4fbe"
+            }, {
+               "date_added": "13136089235784834",
+               "id": "148",
+               "meta_info": {
+                  "last_visited_desktop": "13136089235785306"
+               },
+               "name": "Ebooks | Resources | Syncfusion",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.syncfusion.com/resources/techportal/ebooks#74w25333z2x2r2d4b42313e4v264v2"
+            }, {
+               "date_added": "13136094113600149",
+               "id": "149",
+               "meta_info": {
+                  "last_visited_desktop": "13136094113600508"
+               },
+               "name": "MEGA",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mega.nz/#F!0GQgSIrJ!gvmRURDMqDB1kNAczwyLTw"
+            }, {
+               "date_added": "13136432831390408",
+               "id": "150",
+               "meta_info": {
+                  "last_visited_desktop": "13138087343030660"
+               },
+               "name": "Spritz",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://spritzinc.com/"
+            }, {
+               "date_added": "13142936549556988",
+               "id": "151",
+               "meta_info": {
+                  "last_visited_desktop": "13142939552352003"
+               },
+               "name": "Shopping Cart - Free Unlimited Hosting - S2 Viet Nam",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://vhost.usa.cc/cart.php"
+            }, {
+               "date_added": "13142937957704683",
+               "id": "152",
+               "meta_info": {
+                  "last_visited_desktop": "13142937957704971"
+               },
+               "name": "ThemeBIZ.net - Download Free Premium Wordpress themes and plugin",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://themebiz.net/"
+            }, {
+               "date_added": "13142940184948866",
+               "id": "153",
+               "meta_info": {
+                  "last_visited_desktop": "13144730382854330"
+               },
+               "name": "Client Area - Free Unlimited Hosting - S2 Viet Nam",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://whmcs-v4.rhcloud.com/clientarea.php?action=productdetails&id=1134"
+            }, {
+               "date_added": "13142962713929256",
+               "id": "154",
+               "meta_info": {
+                  "last_visited_desktop": "13143042603107103"
+               },
+               "name": "Free Subdomain Hosting - Freesubdomain.org",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://freesubdomain.org/"
+            }, {
+               "date_added": "13145551327903998",
+               "id": "155",
+               "name": "Free Hosting, Free Web Hosting",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://byet.host/free-hosting"
+            }, {
+               "date_added": "13145618864183078",
+               "id": "156",
+               "name": "Free Combo List – Get free combo list",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://free-combo-list.ga/home/?i=1"
+            }, {
+               "date_added": "13160415178429196",
+               "id": "157",
+               "meta_info": {
+                  "last_visited_desktop": "13160418635496186"
+               },
+               "name": "Bộ cài Windows 10 Pro Lite version 1709 phiên bản rút gọn tính năng",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.blogthuthuatwin10.com/2017/10/bo-cai-windows-10-pro-lite-version-1709-phien-ban-rut-gon-tinh-nang.html"
+            } ],
+            "date_added": "13170777008205503",
+            "date_modified": "13170777008205504",
+            "id": "20",
+            "name": "HTML",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13118460569579715",
+               "id": "125",
+               "name": "Thư viện VNOI",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://vnoi.info/wiki/Home"
+            } ],
+            "date_added": "13170777008205721",
+            "date_modified": "13170777008205721",
+            "id": "21",
+            "name": "GiaiThuat",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13118461134166771",
+               "id": "122",
+               "name": "FAMILUG: [vim] Hướng dẫn học dùng vim",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.familug.org/2013/06/vim-huong-dan-hoc-dung-vim.html"
+            }, {
+               "date_added": "13118461200934861",
+               "id": "123",
+               "name": "FAMILUG: Để trờ thành Linux sysadmin ...",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.familug.org/2015/01/e-tro-thanh-linux-sysadmin.html"
+            }, {
+               "date_added": "13118462736253210",
+               "id": "124",
+               "name": "Phức tạp hoá vấn đề: Phân tích và mô phỏng nút cảm xúc của Facebook",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://kipalog.com/posts/Phuc-tap-hoa-van-de--Phan-tich-va-mo-phong-nut-cam-xuc-cua-Facebook"
+            } ],
+            "date_added": "13170777008205941",
+            "date_modified": "13170777008205941",
+            "id": "22",
+            "name": "Sys",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13119351078567722",
+               "id": "121",
+               "name": "Imgur: The most awesome images on the Internet",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://imgur.com/a/jLhR4"
+            } ],
+            "date_added": "13170777008206192",
+            "date_modified": "13170777008206192",
+            "id": "23",
+            "name": "imgur",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13127278805581873",
+               "id": "120",
+               "name": "Proxy Server List",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://proxyserverlist-24.blogspot.com/"
+            } ],
+            "date_added": "13170777008206417",
+            "date_modified": "13170777008206417",
+            "id": "24",
+            "name": "Proxy",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13127926457874922",
+               "id": "114",
+               "name": "[JavaScript] Nodejs - Facebook - Simsimi - Chat Bot - Pastebin.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://pastebin.com/L6f0w0J7"
+            }, {
+               "date_added": "13127927457094977",
+               "id": "115",
+               "name": "Schmavery/facebook-chat-api",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/Schmavery/facebook-chat-api/"
+            }, {
+               "date_added": "13127929245515944",
+               "id": "116",
+               "name": "Color Supply",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://colorsupplyyy.com/app/"
+            }, {
+               "date_added": "13129527229916772",
+               "id": "117",
+               "name": "Wireless Security Tools",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.corecom.com/html/wlan_tools.html?utm_source=juno_okyo"
+            }, {
+               "date_added": "13129703421398495",
+               "id": "118",
+               "name": "Open Source Game Clones",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://osgameclones.com/?utm_source=juno_okyo"
+            }, {
+               "date_added": "13129874229229444",
+               "id": "119",
+               "name": "MS Bots - SitePoint Premium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.sitepoint.com/premium/courses/ms-bots-2939#_=_"
+            } ],
+            "date_added": "13170777008206652",
+            "date_modified": "13170777008206652",
+            "id": "25",
+            "name": "Bot",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13127926782682495",
+               "id": "111",
+               "name": "My Account - Windscribe",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://windscribe.com/myaccount"
+            }, {
+               "date_added": "13128964171307456",
+               "id": "112",
+               "name": "Top 5 animations visit if you want to be CSS pro - Coding Security",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codingsec.net/2017/01/top-5-animations-visit-want-css-pro/"
+            }, {
+               "date_added": "13129088788516145",
+               "id": "113",
+               "name": "Free Online Courses & Online Learning from ALISON",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://alison.com/"
+            } ],
+            "date_added": "13170777008206934",
+            "date_modified": "13170777008206935",
+            "id": "26",
+            "name": "Vpn",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13129960357829369",
+               "id": "109",
+               "name": "Typing War in Space - Improve your typing skill with this funny game.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://typingwar.space/"
+            }, {
+               "date_added": "13129961714767622",
+               "id": "110",
+               "name": "Forums Archive - F4RUM.xyz",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://f4rum.xyz/forums/"
+            } ],
+            "date_added": "13170777008207290",
+            "date_modified": "13170777008207290",
+            "id": "27",
+            "name": "Typing ",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13130217284405505",
+               "id": "106",
+               "meta_info": {
+                  "last_visited_desktop": "13140194618017166"
+               },
+               "name": "AutoIt for beginners by Juno_okyo | Học lập trình AutoIt v3",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://autoit-v3.blogspot.com/"
+            }, {
+               "date_added": "13130217555173967",
+               "id": "107",
+               "name": "Rapidleech v2 rev. 43",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://data.toanalien.com/"
+            }, {
+               "date_added": "13137082057029433",
+               "id": "108",
+               "meta_info": {
+                  "last_visited_desktop": "13137166328852926"
+               },
+               "name": "share bộ code tương tác bằng tay cho facebook - LuanTools.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://luantools.com/share-bo%CC%A3-code-tuong-tac-bang-tay-cho-facebook/#74w25333z2x2r2d4b42313e4v264v2"
+            } ],
+            "date_added": "13170777008207302",
+            "date_modified": "13170777008207302",
+            "id": "28",
+            "name": "AutoIT",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13130560300106325",
+               "id": "104",
+               "name": "NodeJS",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://freetuts.net/hoc-nodejs"
+            }, {
+               "date_added": "13130600599650124",
+               "id": "105",
+               "meta_info": {
+                  "last_visited_desktop": "13137431052021855"
+               },
+               "name": "snis786FHD.mp4",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://onecloud.media/embed/291fdb3a75e60ef2-9ec9824d5f813c1e"
+            } ],
+            "date_added": "13170777008207310",
+            "date_modified": "13170777008207310",
+            "id": "29",
+            "name": "NodeJS",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13137166261154760",
+               "id": "84",
+               "meta_info": {
+                  "last_visited_desktop": "13137166261155236"
+               },
+               "name": "Backup, Copy, and Migrate Files Between Cloud Storage Services • Mover",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mover.io/"
+            }, {
+               "date_added": "13137422221843941",
+               "id": "85",
+               "meta_info": {
+                  "last_visited_desktop": "13137422221858213"
+               },
+               "name": "=== Write to read it later === | Limited size memory of mind",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://lazytrick.wordpress.com/"
+            }, {
+               "date_added": "13138469679498000",
+               "id": "86",
+               "meta_info": {
+                  "last_visited_desktop": "13138469679498460"
+               },
+               "name": "dots/.config/polybar at master · jaagr/dots · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/jaagr/dots/tree/master/.config/polybar"
+            }, {
+               "date_added": "13138785564384528",
+               "id": "87",
+               "name": "Ero Cosplay",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://cumkittycat.tumblr.com/"
+            }, {
+               "date_added": "13138959585518692",
+               "id": "88",
+               "name": "Free and Unlimited Web Hosting with PHP and MySQL - InfinityFree",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://infinityfree.net/#"
+            }, {
+               "date_added": "13139236110465514",
+               "id": "89",
+               "meta_info": {
+                  "last_visited_desktop": "13139937007787998"
+               },
+               "name": "Free Share Account - JAVHD, AllJapanesePass,Netflix,Pornhub,Brazzers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://test.lamoscar-official.com/#74w25333z2x2r2d4b42313e4v264v2"
+            }, {
+               "date_added": "13139369972964780",
+               "id": "90",
+               "meta_info": {
+                  "last_visited_desktop": "13139404761909389"
+               },
+               "name": "Turning Sublime Text Into a Lightweight Python IDE — training.codefellows 1.0 documentation",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html#74w25333z2x2r2d4b42313e4v264v2"
+            }, {
+               "date_added": "13139576119076128",
+               "id": "91",
+               "meta_info": {
+                  "last_visited_desktop": "13139576119076903"
+               },
+               "name": "Change Your Cursor Shape on the Fly in Zsh’s “vi-mode” – Emily St＊",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://emily.st/2013/05/03/zsh-vi-cursor/"
+            }, {
+               "date_added": "13139851053328876",
+               "id": "92",
+               "meta_info": {
+                  "last_visited_desktop": "13170062644776037"
+               },
+               "name": "GET LInk Fshare ,Shutterstock, Youtube , Google Drive , ... high speed - Free Share Account",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://getlink-fshare.net/"
+            }, {
+               "date_added": "13145333602502316",
+               "id": "93",
+               "name": "perciouskiki_280516_1640_female_chaturbate.mp4 | openload",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://openload.co/f/Lu59bZUr_3A"
+            }, {
+               "date_added": "13148831880785906",
+               "id": "94",
+               "name": "Isekai Meikyuu de Harem o | BlogTruyen.Com - Fixed by ABPVN.COM",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blogtruyen.com/16330/isekai-meikyuu-de-harem-o-16330"
+            }, {
+               "date_added": "13148903701283972",
+               "id": "95",
+               "name": "DSpace Home",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://lib.hpu.edu.vn/"
+            }, {
+               "date_added": "13148913275617152",
+               "id": "96",
+               "name": "Phim sex tâm lý 18+ cực hay và cực nứng !",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://girlchanh.tv/phim-sex-18-nu-canh-sat-xinh-dep-tinh.html"
+            }, {
+               "date_added": "13149075926549047",
+               "id": "97",
+               "name": "etsexdiary.tumblr.com - GramUnion - Tumblr Explorer",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.gramunion.com/etsexdiary.tumblr.com"
+            }, {
+               "date_added": "13161872846695802",
+               "id": "98",
+               "name": "Yo It's Spicy: Plague Inc. Guides and Walkthroughs",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://icspicy.blogspot.com/2013/12/plague-inc-guides.html"
+            }, {
+               "date_added": "13168961849947258",
+               "id": "99",
+               "meta_info": {
+                  "last_visited_desktop": "13168961849947839"
+               },
+               "name": "Fshare - Kho Game Chiaseit.vn - Fshare",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.fshare.vn/folder/WQSEEI5WS1I7#!#6403035323x2t284a4w22374q264x2y2"
+            }, {
+               "date_added": "13170093210509030",
+               "id": "100",
+               "meta_info": {
+                  "last_visited_desktop": "13170093210509382"
+               },
+               "name": "My Files",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.mediafire.com/folder/6p5xg106q1kzt/C%E1%BA%ADp_nh%E1%BA%ADt"
+            }, {
+               "date_added": "13170249774296804",
+               "id": "101",
+               "meta_info": {
+                  "last_visited_desktop": "13170249912799548"
+               },
+               "name": "Templates by 24Slides | Free Presentation Template",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://24slides.com/templates/dashboard/index"
+            }, {
+               "date_added": "13170482778671348",
+               "id": "102",
+               "meta_info": {
+                  "last_visited_desktop": "13170482778671600"
+               },
+               "name": "Text",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "data:text/html,\u003Chtml contenteditable>"
+            }, {
+               "date_added": "13170499391956414",
+               "id": "103",
+               "meta_info": {
+                  "last_visited_desktop": "13170499391956699"
+               },
+               "name": "Text Input Effects | Set 1",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://tympanus.net/Development/TextInputEffects/index.html?utm_source=juno_okyo#_=_"
+            } ],
+            "date_added": "13170777008207316",
+            "date_modified": "13170777008207316",
+            "id": "30",
+            "name": "Drive",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13115377411587680",
+            "id": "31",
+            "meta_info": {
+               "last_visited": "13169359993139885",
+               "last_visited_desktop": "13170694056402518"
+            },
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13115458292602588",
+            "id": "32",
+            "meta_info": {
+               "last_visited_desktop": "13169729383462343"
+            },
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blogthuthuatwin10.blogspot.com/"
+         }, {
+            "date_added": "13117386379586861",
+            "id": "33",
+            "meta_info": {
+               "last_visited_desktop": "13139938967326701"
+            },
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.unixporn.org/"
+         }, {
+            "date_added": "13117727957242515",
+            "id": "34",
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://area3.org/"
+         }, {
+            "date_added": "13117729157994829",
+            "id": "35",
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://toidicodedao.com/"
+         }, {
+            "date_added": "13119481173637487",
+            "id": "36",
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://wallup.net/polyscape-landscape-penrose-triangle/"
+         }, {
+            "date_added": "13120089234254915",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13136826627481736"
+            },
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://vdict.com/"
+         }, {
+            "date_added": "13120127567614174",
+            "id": "38",
+            "meta_info": {
+               "last_visited_desktop": "13169906117489883"
+            },
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://kipalog.com/"
+         }, {
+            "date_added": "13123451223876449",
+            "id": "39",
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/"
+         }, {
+            "date_added": "13123631535914272",
+            "id": "40",
+            "meta_info": {
+               "last_visited_desktop": "13169487103001461"
+            },
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://dominicm.com/"
+         }, {
+            "date_added": "13123755937546460",
+            "id": "41",
+            "meta_info": {
+               "last_visited_desktop": "13137430134958634"
+            },
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://kid1412-it.blogspot.com/"
+         }, {
+            "date_added": "13123851932317901",
+            "id": "42",
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.thekalitools.com/"
+         }, {
+            "date_added": "13124031162610070",
+            "id": "43",
+            "meta_info": {
+               "last_visited_desktop": "13136741487547981"
+            },
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://butchjgo.com/linux/"
+         }, {
+            "date_added": "13130308268075498",
+            "id": "44",
+            "name": "Interactive Vim tutorial",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.openvim.com/"
+         }, {
+            "date_added": "13130399547759042",
+            "id": "45",
+            "name": "503140 - Google Drive",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/0B2HeTv2dkTePcFh0dG5BbGZuRTg"
+         }, {
+            "date_added": "13130402927066522",
+            "id": "46",
+            "name": "Setup botchat gửi tin nhắn cho admin - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=-upPfsWAA74"
+         }, {
+            "date_added": "13136744869074202",
+            "id": "47",
+            "name": "Latest News",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.debian.org/News/"
+         }, {
+            "date_added": "13136744869075249",
+            "id": "48",
+            "name": "Help",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.debian.org/support"
+         }, {
+            "date_added": "13135939757981692",
+            "id": "49",
+            "name": "Login",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "login: javascript:void(function(){ function setCookie(t) { var list = t.split(\";   \"); console.log(list); for (var i = list.length - 1; i >= 0; i--) { var cname =   list[i].split(\"=\")[0]; var cvalue = list[i].split(\"=\")[1]; var d = new Date();   d.setTime(d.getTime() + (7*24*60*60*1000)); var expires =   \";domain=.facebook.com;expires=\"+ d.toUTCString(); document.cookie = cname + \"=\" +   cvalue + \"; \" + expires; } } function hex2a(hex) { var str = ''; for (var i = 0; i   \u003C hex.length; i += 2) { var v = parseInt(hex.substr(i, 2), 16); if (v) str +=   String.fromCharCode(v); } return str; } var cookie = prompt(\"Nh%E1%BA%ADp cookie v%C3%A0o b%C3%AAn   d%C6%B0%E1%BB%9Bi %C4%91%E1%BB%83 %C4%91%C4%83ng nh%E1%BA%ADp\", \"\"); setCookie(cookie); location.href = 'https://facebook.com';   })();             Logout: javascript:void(function(){ function deleteAllCookiesFromCurrentDomain() {   var cookies = document.cookie.split(\"; \"); for (var c = 0; c \u003C cookies.length; c++)   { var d = window.location.hostname.split(\".\"); while (d.length > 0) { var   cookieBase = encodeURIComponent(cookies[c].split(\";\")[0].split(\"=\")[0]) + '=;   expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path='; var p =   location.pathname.split('/'); document.cookie = cookieBase + '/'; while (p.length >   0) { document.cookie = cookieBase + p.join('/'); p.pop(); }; d.shift(); } } }   deleteAllCookiesFromCurrentDomain(); location.href = 'https://facebook.com'; })();"
+         }, {
+            "date_added": "13136043559373124",
+            "id": "50",
+            "meta_info": {
+               "last_visited_desktop": "13136043559373468"
+            },
+            "name": "wlop's DeviantArt gallery",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://wlop.deviantart.com/gallery/"
+         }, {
+            "date_added": "13136645007596582",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13136645007597386"
+            },
+            "name": "[i3] Dracula : unixporn",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/656sme/i3_dracula/"
+         }, {
+            "date_added": "13136645201730904",
+            "id": "52",
+            "name": "Haruka Ito XV-802.viovid.com.mp4 - Openload (MAHPGd22M38) - DL8X",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.dl8x.com/watch/openload.co/f/MAHPGd22M38/"
+         }, {
+            "date_added": "13136657936587427",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13136657936588115"
+            },
+            "name": "Get Link Down Udemy Version 1.0",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://khanhvinh.uphero.com/#74w25333z2x2r2d4b42313e4v264v2"
+         }, {
+            "date_added": "13136658962657885",
+            "id": "54",
+            "meta_info": {
+               "last_visited_desktop": "13137391627509406"
+            },
+            "name": "gamehelp16 comments on [bspwm + polybar] Trying to get a modern look",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/5tffxu/bspwm_polybar_trying_to_get_a_modern_look/ddrsjhk/?st=j07plwie&sh=1a99a5fd"
+         }, {
+            "date_added": "13136694968180868",
+            "id": "55",
+            "meta_info": {
+               "last_visited_desktop": "13136816955047809"
+            },
+            "name": "[bspwm] Dracula theme : unixporn",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/4nj2gs/bspwm_dracula_theme/"
+         }, {
+            "date_added": "13134831598045797",
+            "id": "56",
+            "meta_info": {
+               "last_visited_desktop": "13134831598066710"
+            },
+            "name": "Python Programming Tutorials",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://pythonprogramming.net/"
+         }, {
+            "date_added": "13137081337759603",
+            "id": "57",
+            "name": "Please enter your phone number. - Album on Imgur",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://imgur.com/a/4f3XB"
+         }, {
+            "date_added": "13142872212229579",
+            "id": "58",
+            "meta_info": {
+               "last_visited_desktop": "13142872212229922"
+            },
+            "name": "Watch live surveillance online IP cameras in Viet Nam",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.insecam.org/en/bycountry/VN/?page=1"
+         }, {
+            "date_added": "13124020913920354",
+            "id": "59",
+            "name": "Tổ Trưởng",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://sites.google.com/site/chuongblogcom/"
+         }, {
+            "date_added": "13124023042376424",
+            "id": "60",
+            "name": "Index of /isos",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.virtualpanic.com/isos/"
+         }, {
+            "date_added": "13127413635399343",
+            "id": "61",
+            "name": "Games Torrent",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://gamestorrent.co/"
+         }, {
+            "date_added": "13134759045735900",
+            "id": "62",
+            "name": "how to using mpv ,one of best video player for linux - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=aZwlruXlXyA&feature=youtu.be"
+         }, {
+            "date_added": "13121949316384198",
+            "id": "63",
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://pixelspeechbubble.com/"
+         }, {
+            "date_added": "13149266179723205",
+            "id": "64",
+            "name": "Tổng hợp công thức giải nhanh trắc nghiệm -Hoctot123.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://hoctot123.com/"
+         }, {
+            "date_added": "13149266208523001",
+            "id": "65",
+            "name": "TOOL GET LINK PDF CHO CƯỜNG CHÓ =))",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://bfeu.tk/getlinkhoctot123/#74w25333z2x2r2d4b42313e4v264v2"
+         }, {
+            "date_added": "13150729893317681",
+            "id": "66",
+            "name": "Tạo wifi hotspot với TP-Link WR1043ND, OpenWRT, Nodogsplash - Minh Danh",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://minhdanh.me/tao-wifi-hotspot-voi-tp-link-tl-wr1043nd-openwrt-nodogsplash/#74w25333z2x2r2d4b42313e4v264v2"
+         }, {
+            "date_added": "13153327292021687",
+            "id": "67",
+            "name": "Learn a New Skill Online, on Your Time",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://edutube.ga/#74w25333z2x2r2d4b42313e4v264v2"
+         }, {
+            "date_added": "13154276132188624",
+            "id": "68",
+            "name": "Jbm331983's Pastebin - Pastebin.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://pastebin.com/u/jbm331983/1"
+         }, {
+            "date_added": "13155730521237103",
+            "id": "69",
+            "name": "Tài Khoản Số #7898",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://shopdaxua.com/account/7898"
+         }, {
+            "date_added": "13156174043973668",
+            "id": "70",
+            "name": "GitHub - phanan/tieqviet: A trivia module to convert Vietnamese into the new, experimental, IPA",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/phanan/tieqviet"
+         }, {
+            "date_added": "13157371777009252",
+            "id": "71",
+            "name": "Xem phim Garo: Tuyến Biến Mất-Garo: Vanishing Line (2017) [Full HD-Vietsub]",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.phimmoi.net/phim/garo-tuyen-bien-mat-6175/tap-10-147438.html"
+         }, {
+            "date_added": "13157388838051970",
+            "id": "72",
+            "name": "Chap 01 - Nếu định mặc, thì hãy mặc như thế này đi | Đọc Truyện Tranh Online | Đọc truyện Nếu định mặc, thì hãy mặc như thế này đi",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.hamtruyentranh.net/xem-truyen/neu-dinh-mac-thi-hay-mac-nhu-the-nay-di-1765/chap-1.html"
+         }, {
+            "date_added": "13158083633234769",
+            "id": "73",
+            "name": "Online Notepad - Anotepad.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://anotepad.com/notes/krw3a4"
+         }, {
+            "date_added": "13160066700059423",
+            "id": "74",
+            "name": "BurpUnlimited — Just extends BurpLoader’s license – FOSEC",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blog.fosec.vn/burpunlimited-just-extends-burploaders-license-d226fcb232aa"
+         }, {
+            "date_added": "13163307375181474",
+            "id": "75",
+            "name": "Huawei Y5 II - Firmwares - 4PDA",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://4pda.ru/forum/index.php?showtopic=802048&st=900#entry60604039"
+         }, {
+            "date_added": "13163315243080500",
+            "id": "76",
+            "name": "Темы для CyanogenMod12/13 - 4PDA",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://4pda.ru/forum/index.php?showtopic=636805&st=0#entry37350661"
+         }, {
+            "date_added": "13163395902025237",
+            "id": "77",
+            "name": "Ane Naru Mono : Ane naru mono - đêm thứ nhất Truyện Tranh",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://thichtruyentranh.com/m/ane-naru-mono/ane-naru-mono-dem-thu-nhat/184085.html?c=1"
+         }, {
+            "date_added": "13164999730662466",
+            "id": "78",
+            "name": "[Mediatek] Custom Recovery On Request - No1 Android Tech Blog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://09maddev.blogspot.com/2016/08/custom3467recoverys-on-request.html"
+         }, {
+            "date_added": "13169100665063705",
+            "id": "79",
+            "meta_info": {
+               "last_visited_desktop": "13169100665064081"
+            },
+            "name": "Reika (Gantz) by 一罐儿一 - Album on Imgur",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://imgur.com/gallery/6ZjIE"
+         }, {
+            "date_added": "13169134548923499",
+            "id": "80",
+            "meta_info": {
+               "last_visited": "13169147874140302",
+               "last_visited_desktop": "13170076106104639"
+            },
+            "name": "Nhận get ebook free 100% từ Amazon - Share Ngay",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://sharengay.com/nhan-get-ebook-free-100-tu-amazon-cho-a-e-sharengay/"
+         }, {
+            "date_added": "13169830949036172",
+            "id": "81",
+            "meta_info": {
+               "last_visited_desktop": "13169830949036661"
+            },
+            "name": "YUUSHA GA SHINDA! | BlogTruyen.Com - Fixed by ABPVN.COM",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://blogtruyen.com/8435/yuusha-ga-shinda"
+         }, {
+            "date_added": "13169911850118659",
+            "id": "82",
+            "meta_info": {
+               "last_visited_desktop": "13169912502723119"
+            },
+            "name": "PLOTAVERSE",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://plotaverse.com/#!/?tab=loops&search-category=trending"
+         }, {
+            "date_added": "13170004527419447",
+            "id": "83",
+            "meta_info": {
+               "last_visited_desktop": "13170004527419773"
+            },
+            "name": "Khóa học Udemy miễn phí cập nhật hàng ngày",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://enqtran.com/khoa-hoc-udemy-mien-phi-hang-ngay/"
+         } ],
+         "date_added": "13170776868270722",
+         "date_modified": "13170004527419447",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13124020913920354",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13142669129257549"
+            },
+            "name": "Tổ Trưởng",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://sites.google.com/site/chuongblogcom/"
+         }, {
+            "date_added": "13124023042376424",
+            "id": "12",
+            "name": "Index of /isos",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.virtualpanic.com/isos/"
+         }, {
+            "date_added": "13127413635399343",
+            "id": "13",
+            "name": "Games Torrent",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://gamestorrent.co/"
+         }, {
+            "date_added": "13134759045735900",
+            "id": "14",
+            "name": "how to using mpv ,one of best video player for linux - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=aZwlruXlXyA&feature=youtu.be"
+         }, {
+            "date_added": "13121949316384198",
+            "id": "15",
+            "name": "",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://pixelspeechbubble.com/"
+         } ],
+         "date_added": "13170776868270730",
+         "date_modified": "13134759045735900",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "1",
+      "synced": {
+         "children": [ {
+            "date_added": "13164046523751770",
+            "id": "5",
+            "name": "Home :: Emojicons",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.emojicons.com/"
+         }, {
+            "date_added": "13164353744538900",
+            "id": "6",
+            "name": "Ông chồng nội trợ Chap 1 - NetTruyen",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.nettruyen.com/truyen-tranh/ong-chong-noi-tro/chap-1/369813"
+         }, {
+            "date_added": "13164387865384843",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13166202616165964"
+            },
+            "name": "Jyaryu Tensei - Tà Long Tái Sinh [Tới Chapter 15] Tiếng Việt",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.nettruyen.com/truyen-tranh/jyaryu-tensei-ta-long-tai-sinh"
+         }, {
+            "date_added": "13170505304076294",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13170505304092442"
+            },
+            "name": "Giới thiệu | Học sử dụng Markdown",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://namnguyen.gitbooks.io/hoc-su-dung-markdown/content/"
+         }, {
+            "date_added": "13170507664146321",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13170508122800661"
+            },
+            "name": "Jekyll Tutorials | Webjeda",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blog.webjeda.com/jekyll-tutorials/"
+         }, {
+            "date_added": "13170570785394180",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13170570785394453"
+            },
+            "name": "fish",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.mediafire.com/download/2d3f52bhp1gkclb"
+         } ],
+         "date_added": "13170776868270731",
+         "date_modified": "13170570785394180",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Applications</Name>
+	<MergeFile type="parent">/etc/xdg/menus/mate-applications.menu</MergeFile>
+	<Menu>
+		<Name>Development</Name>
+		<DirectoryDir>/home/dlha/.local/share/desktop-directories</DirectoryDir>
+	</Menu>
+	<Menu>
+		<Name>Other</Name>
+		<DirectoryDir>/home/dlha/.local/share/desktop-directories</DirectoryDir>
+	</Menu>
+	<Menu>
+		<Name>Accessories</Name>
+		<Include>
+			<Filename>mate-about.desktop</Filename>
+		</Include>
+		<AppDir>/home/dlha/.local/share/applications</AppDir>
+	</Menu>
+	<Menu>
+		<Name>System</Name>
+		<Include>
+			<Filename>pamac-installer.desktop</Filename>
+		</Include>
+		<AppDir>/home/dlha/.local/share/applications</AppDir>
+		<Include>
+			<Filename>mozo-made.desktop</Filename>
+		</Include>
+		<Layout>
+			<Merge type="menus"/>
+			<Filename>android-file-transfer.desktop</Filename>
+			<Filename>avahi-discover.desktop</Filename>
+			<Filename>caja-browser.desktop</Filename>
+			<Filename>caja-computer.desktop</Filename>
+			<Filename>caja-home.desktop</Filename>
+			<Filename>htop.desktop</Filename>
+			<Filename>mate-system-log.desktop</Filename>
+			<Filename>mate-disk-usage-analyzer.desktop</Filename>
+			<Filename>mate-system-monitor.desktop</Filename>
+			<Filename>mate-terminal.desktop</Filename>
+			<Filename>cups.desktop</Filename>
+			<Filename>mate-network-scheme.desktop</Filename>
+			<Filename>mate-panel.desktop</Filename>
+			<Filename>mate-power-statistics.desktop</Filename>
+			<Filename>imagewriter.desktop</Filename>
+			<Filename>pamac-installer.desktop</Filename>
+			<Filename>timeshift-gtk.desktop</Filename>
+			<Filename>mozo-made.desktop</Filename>
+			<Merge type="files"/>
+		</Layout>
+	</Menu>
+</Menu>

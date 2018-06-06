@@ -7,7 +7,7 @@ foreground = ${xrdb:foreground}
 height = 25
 bottom = true
 fixed-center = false
-module-margin = 8
+module-margin = 5
 offset-y = 10
 
 background = ${colors.none}
@@ -16,7 +16,7 @@ foreground = ${colors.foreground}
 font-0 = "lucy tewi:size=10;2"
 font-1 = "Font Awesome 5 Free:size=10;2"
 
-modules-center = bspwm mpd date volume
+modules-center = bspwm mpd memory volume pulseaudio date 
 
 [module/date]
 type = internal/date
@@ -84,5 +84,45 @@ icon-pause = 
 icon-stop = 
 icon-prev = ⏮
 icon-next = ⏭
+
+[module/memory]
+type = internal/memory
+
+; Seconds to sleep between updates
+; Default: 1
+interval = 1
+format = MEM  <label>
+format-padding = 2
+format-background = ${xrdb:color4}
+format-foreground = ${colors.background}
+
+label= %gb_used%
+label-padding = 2
+label-background = ${colors.background}
+label-foreground = ${colors.foreground}
+
+[module/volume]
+type = internal/volume
+master-mixer = Master
+
+
+format-volume =VOL  <label-volume>
+format-volume-padding = 2
+format-volume-background = ${xrdb:color4}
+format-volume-foreground = ${colors.background}
+
+label-volume = %percentage%
+label-volume-padding =2
+label-volume-background = ${colors.background}
+label-volume-foreground = ${colors.foreground}
+
+format-mute=Mute<label-mute>
+format-mute-padding = 2
+
+label-muted =   muted
+
+
+
+
 
 

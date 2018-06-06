@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "csn.css", "js/lib/test/mocha.css" ],
+      "js": [ "js/lib/jquery-2.2.4.min.js", "js/lib/jszip.js", "js/lib/FileSaver.min.js", "js/lib/base64.js", "js/lib/test/chai.js", "js/lib/test/mocha.js", "js/zipper.service.js", "js/tracker.service.js", "js/helper.service.js", "js/csnParser.js", "js/content.js", "js/test.js" ],
+      "matches": [ "http://chiasenhac.vn/*", "https://chiasenhac.vn/*", "http://*.chiasenhac.vn/*", "https://*.chiasenhac.vn/*" ]
+   } ],
+   "description": "Tool download nhanh album chất lượng cao trên trang chiasenhac.vn",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3OR/BH3Z1lsFe2PPJBtbhcsMXZ22d+0FnPdmXpkipf9h7TeMr0Vahst3Q/Uyg+gBcN/P+lecm5FYu9iIFFgoaC2K/+iblmecX4ccWFWyRIa7YoG+mWgF0VrF20IK1mppHxKC4pao1XQoY7Q+RQrtUZq9nFCBwI/1VIzNotJaX5dFue6oZVrpkejSrAw49bK8itVN+g/F55kxgqFNQg9i+1QMFUvRJgqGBCuuhDOaAOxejiBHiWihJuv13NFIqS0F2xkFviiJMz89xKEd6rqlAtmnFZyYwV7FlqdQR+M2ubsjAC2uTnABnfWFc2w6uMXc8zHh6zgmdtoetYFLrMl4HwIDAQAB",
+   "manifest_version": 2,
+   "name": "Chiasenhac Download Plugin",
+   "page_action": {
+      "default_icon": {
+         "19": "icon.png"
+      },
+      "default_title": "CSNdownload"
+   },
+   "permissions": [ "declarativeContent", "http://chiasenhac.vn/", "http://*.chiasenhac.vn/", "http://chiasenhac.com/", "http://*.chiasenhac.com/" ],
+   "short_name": "CSNdownload",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.0",
+   "web_accessible_resources": [ "csn.css", "tpl/button.html", "js/lib/test/mocha.css" ]
+}

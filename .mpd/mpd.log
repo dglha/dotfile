@@ -1,0 +1,725 @@
+Jun 05 22:35 : exception: Failed to open /home/dlha/.mpd/mpdstate: No such file or directory
+Jun 05 22:35 : config: option 'device' on line 13 was not recognized
+Jun 05 22:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 05 22:35 : client: [0] opened from 127.0.0.1:34470
+Jun 05 22:37 : client: [1] opened from 127.0.0.1:34480
+Jun 05 22:37 : client: [1] closed
+Jun 05 22:38 : client: [2] opened from 127.0.0.1:34484
+Jun 05 22:38 : client: [2] closed
+Jun 05 22:38 : config: option 'device' on line 13 was not recognized
+Jun 05 22:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 05 22:38 : client: [0] opened from 127.0.0.1:34492
+Jun 05 22:38 : client: [1] opened from 127.0.0.1:34496
+Jun 05 22:39 : client: [1] closed
+Jun 05 22:39 : config: option 'device' on line 13 was not recognized
+Jun 05 22:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 05 22:39 : client: [0] opened from 127.0.0.1:34510
+Jun 05 22:40 : client: [1] opened from 127.0.0.1:34514
+Jun 05 22:40 : update: added /Lạ Thường - Đạt G (Prod by Lym).mp3
+Jun 05 22:40 : update: added /Gashina - Sunmi [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /MIC Drop Remix_ - BTS_ Steve Aoki [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Little Talks - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Shawn Wasabi - HOTTO DOGU ホットドッグ (live Original).mp3
+Jun 05 22:40 : update: added /Vo Hinh Trong Tim Em - Mr Siro [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Thu Cuoi - Yanbi_ Mr_T_ Hang BingBoong [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Sammy Seagull - Flying High [Chill Trap Release].mp3
+Jun 05 22:40 : update: added /Hardwell feat. Jake Reese - Mad World (Sephyx Remix) [OUT NOW!].mp3
+Jun 05 22:40 : update: added /Ý EM SAO - KAY TRAN X LANG LD X HOMIE BOIZ.mp3
+Jun 05 22:40 : update: added /Anh Se Tot Ma - Pham Hong Phuoc_ Thuy Ch [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /Sơn Tùng P-TM - Trạc Lôi ( D.Baola & Darrys Remix ).mp3
+Jun 05 22:40 : update: added /Lay Me Down - Sam Smith [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /[ Official Audio ] Anh muốn nghe giọng em - Nguyên. X LYM & $eth.mp3
+Jun 05 22:40 : update: added /Hay Ra Khoi Nguoi Do Di - Phan Manh Quyn [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Ngay Mai Em Di - Le Hieu_ Soobin Hoang S [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Bad Boy - Red Velvet [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /As If It_s Your Last - BlackPink [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Come Back Home - 2NE1 [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Pray For Me - The Weeknd_ Kendrick Lamar [MP3 320kbps].mp3
+Jun 05 22:40 : update: added /Ngoi Hat Do Buon - Truc Nhan [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Anh Khac Hay Em Khac - Khac Viet [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Chuc Vo Ngu Ngon - Vu Duy Khanh [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Pretty Girl Cheat Codes x CADE Remix_ - [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Stereoman - Colorful Lemonade.mp3
+Jun 05 22:40 : update: added /From Finner - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Khi Nguoi Minh Yeu Khoc - Phan Manh Quyn [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Apologize - Timbaland_ OneRepublic [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Nhu Ngay Do - Binz_ Khoi_ It_s Lee [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Sau Lung Anh Se La Max Benderz_ D_Baola [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /B.S.N.L 2 - Young H X B Ray.mp3
+Jun 05 22:40 : update: added /Jay Park 박재범 - ALL I WANNA DO (K) (Feat. Hoody, Loco).mp3
+Jun 05 22:40 : update: added /It Ain_t Me - Kygo_ Selena Gomez [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /La - Pham Đinh Thai Ngan.mp3
+Jun 05 22:40 : update: added /Thang 7 Cua Anh_Em Va Co Don - Khoi [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Gui Anh Xa Nho - Bich Phuong [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Boomerang - Wanna One [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /ĐIỀU KHÁC LẠ - ĐẠTG X NGỌC HALEYY (Masew Mix).mp3
+Jun 05 22:40 : update: added /Stay With You - Cheat Codes & Cade.mp3
+Jun 05 22:40 : update: added /Spring Day - BTS [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Neu Em Con Ton Tai - Trinh Dinh Quang [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /[2G17] BÁT QUÁI  - GFAMILY !.mp3
+Jun 05 22:40 : update: added /Nhu Nhung Phut Ban Dau - Hoai Lam [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Just Give Me A Reason - Pink_ Nate Ruess [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Lakehouse - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Yeu Tu Phia Xa - Chi Dan [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Because I Love You - Shaking Steven [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Da Quen Roi - The Sheep [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Nhu Vay Nhe - Khac Viet [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Already Gone.mp3
+Jun 05 22:40 : update: added /Twilight Meadow - The Worlds We Discovered (Pegato Remix)Free download.mp3
+Jun 05 22:40 : update: added /Trai Qua - Khoi My_ Pudding Vu [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Suy Nghi Trong Anh - Nam Cuong_ Khac Vie [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /LẠ LÙNG - Vũ. (Original).mp3
+Jun 05 22:40 : update: added /Đen - Mưa Trên Những Mái Tôn ft. Kaang (Prod. By Maxbenderz).mp3
+Jun 05 22:40 : update: added /Numb Bears - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Cash Cash & ROZES - Matches.mp3
+Jun 05 22:40 : update: added /Yellow Light_ Sinking Man - Of Monsters [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Gold - Imagine Dragons [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Phút Ban Đầu - Vũ.( Original ).mp3
+Jun 05 22:40 : update: added /Brayniacs - B Ray ( Masew Mix ).mp3
+Jun 05 22:40 : update: added /Lucky Strike - Maroon 5 [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Backyard - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /JGKiD , Đen, EmceeL, KraziNoyze, DSK - Tan ka ka a.k.a Ganja (Maxbenderz Reproduce).mp3
+Jun 05 22:40 : update: added /Lana Del Rey - Born To Die (Absence Remix).mp3
+Jun 05 22:40 : update: added /Anh muốn nghe giọng em ( Acoustic Version ) - Nguyên..mp3
+Jun 05 22:40 : update: added /What About Love - Austin Mahone [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Count On Me - Bruno Mars [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /SlimV - Bỏ Lại Thế Giới (KEJAX & Nexus Maximus Remix).mp3
+Jun 05 22:40 : update: added /Đạt G - C.T.A.D.M.R ft. $eth [Official Audio].mp3
+Jun 05 22:40 : update: added /I Know - Duong Edward_ Mr_ A [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Different Heaven - Far Away [NCS Release].mp3
+Jun 05 22:40 : update: added /Co Em Cho - Min_ Mr_A [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /The Eve - EXO [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Duoi Nhung Con Mua - Mr Siro [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Wolves Without Teeth - Of Monsters And M [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Taiemmatoinhuthe-UngHoangPhuc_5b9j.mp3
+Jun 05 22:40 : update: added /Sloom - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Honey Bee - Luna_ Hani_ Solar [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Trong Tui Ao Anh - Khoi My_ Bao Thach [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Steve Aoki & Louis Tomlinson - Just Hold On (Two Friends Remix).mp3
+Jun 05 22:40 : update: added /Call Me - Koo.mp3
+Jun 05 22:40 : update: added /Gravity Falls Theme Song (OVA Remix).mp3
+Jun 05 22:40 : update: added /Hymn For The Weekend - Coldplay_ Beyonce [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Đi Theo Bóng Mặt Trời - Đen X Giang Nguyễn ( Masew Remix ).mp3
+Jun 05 22:40 : update: added /Powerful - Major Lazer_ Ellie Goulding_ [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /TÍC TẮC - cRazillit.mp3
+Jun 05 22:40 : update: added /Tu Ngay Em Den - Da LAB [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Khi Nguoi Lon Co Don - Pham Hong Phuoc [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /HAZARD CLIQUE - BỐN BA HAI MỘT (prod. by MR. BOOMBA).mp3
+Jun 05 22:40 : update: added /Waiting For Love - Avicii_ Martin Garrix [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Cheap Thrills - Sia [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Black Water Chris Taylor Of Grizzly Bear [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /MAMA 2017 Mashup - Duc Phuc_ Hoa Minzy_ [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Mo Tren May DATAD_ TNB Remix_ - Suni Ha [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /Remember Me SlimV 2017 Mix_ - Son Tung M [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Daydreams - Soobin Hoang Son_ BigDaddy_ [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /Fool - Winner [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Cho Tôi Lang Thang.mp3
+Jun 05 22:40 : client: [1] closed
+Jun 05 22:40 : update: added /Hôm Nay Tôi Buồn - Phùng Khánh Linh (Original).mp3
+Jun 05 22:40 : update: added /LINH CAO - BO MONG MI OFFICIAL AUDIO.mp3
+Jun 05 22:40 : update: added /I Of The Storm Alex Somers Remix_ - Of M [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Infection - Don't Say A Word (ft. Enya Angel).mp3
+Jun 05 22:40 : update: added /Con tim tao đau quá man - Sol x Yuno x Kaka$hi.mp3
+Jun 05 22:40 : update: added /Sleep Talking - Charlotte Lawrence [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /24hrs x blackbear - Regina George.mp3
+Jun 05 22:40 : update: added /Chi Anh Hieu Em - Khac Viet [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /We Sink - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Crystals - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Lac Nhau Co Phai Muon Doi - Erik [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Dau Mua - Trung Quan [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /I Do - 911 [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /Love Love Love - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Su Thanh Hoa - Chau Kiet Luan [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /anh muốn thấy em .mp3
+Jun 05 22:40 : update: added /One Direction x Taps Cover - Perfect  (OutaMatic Remix).mp3
+Jun 05 22:40 : update: added /Tại Anh Thôi - TAT.mp3
+Jun 05 22:40 : update: added /Lady - EXID [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Dập Ghim - Hoá Đơn (Original).mp3
+Jun 05 22:40 : update: added /Ben Anh Dem Nay - JC Hung_ Binz [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Anh Dang Noi Dau - Miu Le [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Save Me - DEAMN [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Mademoiselle - Loanh Quanh.mp3
+Jun 05 22:40 : update: added /B.o.B - Airplanes ft. Hayley Williams (AndyWho Remix).mp3
+Jun 05 22:40 : update: added /[And July] Heize (헤이즈)(Feat. DEAN & DJ Friz) - And July.mp3
+Jun 05 22:40 : update: added /[ Super cutie of Audio ]   Gia - định   -   Lux feat. Duckie n Ngọc Haleyy.mp3
+Jun 05 22:40 : update: added /Chua Bao Gio - Trung Quan [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Ling - Cho Nhung Lan Dau Tien Ft Giang Nguyen.mp3
+Jun 05 22:40 : update: added /Elastic Heart - Sia [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /King And Lionheart - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /여전해 (feat. seizetheday).mp3
+Jun 05 22:40 : update: added /O Trong Thanh Pho - Bray_ Hannad B_ Mase [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /Sugar - Maroon 5 [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Flume - Say It ft. Tove Lo (Illenium Remix).mp3
+Jun 05 22:40 : update: added /Nguoi Am Phu - Osad [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /I Feel It Coming - The Weeknd_ Daft Punk [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Shots - Imagine Dragons [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Stay - BlackPink [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Tình thư của lính - Thế Sơn.m4a
+Jun 05 22:40 : update: added /Maps - Maroon 5 [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Anh Khong Xung - Yanbi_ Mr_T_ Hang BingB [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /One Call Away - Charlie Puth [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Du Chang Phai Anh - Dinh Manh Ninh [MP3 320kbps].mp3
+Jun 05 22:40 : update: added /Noi Dau Xot Xa - Minh Vuong [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Counting Stars - OneRepublic [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /bâygiờanhcóthểnghegiọngcủaem - haisam.mp3
+Jun 05 22:40 : update: added /Every Breath You Take (ft. Jess Smyth).mp3
+Jun 05 22:40 : update: added /Six Weeks - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Tri Ky - Phan Manh Quynh [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /The River - Axel Johansson_ Tina Stachow [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /1 2 3 4 - Chi Dan [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Your Bones - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Pure 100% X Kimani - She Don't Care [Future Bass Exclusive].mp3
+Jun 05 22:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 05 22:40 : update: added /Sik Kid - Broken Wings.m4a
+Jun 05 22:40 : update: added /2 5 - Sol'Bass Ft. Táo Young H.mp3
+Jun 05 22:40 : update: added /Nguoi hay quen em di Please forget me_ - [192kbps_MP3].mp3
+Jun 05 22:40 : update: added /Tat Nuoc Dau Dinh - Lynk Lee_ Binz [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /I_m Not The Only One - Sam Smith [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Trai Tim Anh Cung Biet Dau - Mr Siro [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Krazy - Touliver_ Binz_ Andree_ Evy [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Dirty Paws - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Love Scenario - IKON [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Heroine - Sunmi [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Oceans Away (Vicetone Remix).mp3
+Jun 05 22:40 : update: added /Love Me Love Me - Winner [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Sophie Francis - Without You [OUT NOW].mp3
+Jun 05 22:40 : update: added /Viet Nam_ Di_ Hon Va Yeu - Pham Hong Phu [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /All Of Me - John Legend [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Demons - Imagine Dragon [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Lam Vo Anh Nhe - Chi Dan [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /HAZARD CLIQUE - HÀO HÙNG CA (PROD. BY BROTHER LOK).mp3
+Jun 05 22:40 : update: added /Tu Dung - Phan Manh Quynh [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /let me love you.mp3
+Jun 05 22:40 : update: added /Y Em Sao - Kay Tran_ Lang LD [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Forever Love - Lil Knight_ Binz_ Andree_ [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /I_m Him - Mino [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Rhy - Bạn - Official Audio.mp3
+Jun 05 22:40 : update: added /Cung Danh Thoi - Duc Phuc [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Moves Like Jagger - Maroon 5_ Christina [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Cô gái m52 ‣ Huy ft. Tùng Viu.mp3
+Jun 05 22:40 : update: added /Peek-A-Boo - Red Velvet [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /[Official track] Bài ca tuổi trẻ - Tam ka Thơm, Long, Khoa.mp3
+Jun 05 22:40 : update: added /I Bet My Life - Imagine Dragon [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Attention - Charlie Puth [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Winter Sound - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Human - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Calvin Harris - How Deep Is Your Love (Ravine VS Exige Cover Extended By Leandro Baptista).mp3
+Jun 05 22:40 : update: added /Wolves - Selena Gomez_ Marshmello [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Hunger - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /If I Lose Myself - OneRepublic [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Lang Yen - Bui Anh Tuan_ Ai Phuong [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /[Official track] Giáng Sinh a.k.a Dáng Xinh.mp3
+Jun 05 22:40 : update: added /Thousand Eyes - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Afternoon.mp3
+Jun 05 22:40 : update: added /Du Anh Muon.mp3
+Jun 05 22:40 : update: added /Superheroes - The Script [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Believer - Imagine Dragons [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /How To Love - Cash Cash_ Sofia Reyes [320kbps_MP3](1).mp3
+Jun 05 22:40 : update: added /Thu Chua Gui Anh - Hoa Minzy [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Mat Troi Cua Em - Phuong Ly_ JustaTee [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Về với em đi - Tiên Tiên ( KSK & Darrys remix ).mp3
+Jun 05 22:40 : update: added /Em có đợi tin nhắn tôi không - Hải Sâm.mp3
+Jun 05 22:40 : update: added /Da Lo Yeu Em Nhieu - JustaTee [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /ĐạtG X K-ICM - Buồn Của Anh ( Masew Remix ).mp3
+Jun 05 22:40 : update: added /Of Monsters And Men - Dirty Paws (Kygo Remix).mp3
+Jun 05 22:40 : update: added /Gia Co The Om Ai Va Khoc - Pham Hong Phu [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Hay Noi Di - Uyen Pim [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Black Dress - CLC [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Ve Khoi - Rhymastic_ Onion [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /[Official Audio] Điều Bí Mật - ItsLee & Binz.mp3
+Jun 05 22:40 : update: added /Vài tháng sau...mp3
+Jun 05 22:40 : update: added /PMQ - Vợ người ta (Hoaprox phá đám Remix).mp3
+Jun 05 22:40 : update: added /your text.mp3
+Jun 05 22:40 : update: added /Boom - Ti__sto_ Sevenn [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Tôi và em.mp3
+Jun 05 22:40 : update: added /3 Lần Phải Khóc (Prod. Scarecrow Beats) - B Ray.mp3
+Jun 05 22:40 : update: added /Đạt G - Khổ Thân [Official Audio].mp3
+Jun 05 22:40 : update: added /Empire - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Without You - Avicii_ Sandro Cavazza [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /BBoom BBoom - Momoland [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Deep Sea - Binz_ Thanh Nguyen [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /Mmm Yeah - Austin Mahone_ Pitbull [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Kimmese Ft. Andree Right Hand – ITSABET (Deapkev Edit).mp3
+Jun 05 22:40 : update: added /Người Từng Thương - Sevenk Ft Will n' Sukai.mp3
+Jun 05 22:40 : update: added /Nguoi Khac - Phan Manh Quynh_ Drum7 [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Va The La Het - Soobin Hoang Son [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /Ling - Nguoi Trong Ngay Cu Ft Giang Ng.mp3
+Jun 05 22:40 : update: added /Black Water - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /You And Me (Single).mp3
+Jun 05 22:40 : update: added /GHÉT 1 THẰNG NHƯ TAO - HÀ BEE SƠN - INFAMOUS TEAM.mp3
+Jun 05 22:40 : update: added /That_s What I Like - Bruno Mars [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Em là chương cuối - Kiwi & $ativa.mp3
+Jun 05 22:40 : update: added /Sammy Seagull - Wing Up [Chill Trap Release].mp3
+Jun 05 22:40 : update: added /Loneliness Vintage Version_ - Dinh Huong [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Duong Mot Chieu - Huynh Tu_ Magazine [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Trong Tri Nho Cua Anh - Nguyen Tran Trun [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Don_t Recall - KARD [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Can_t Hold Us - Macklemore_ Ray Dalton [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /I Don't Want You Back - Young H Ft B Ray.mp3
+Jun 05 22:40 : update: added /Mắt Biếc - TeA Ft PCGL (Prod. VoVanDuc ).mp3
+Jun 05 22:40 : update: added /Panda Eyes - 95K.mp3
+Jun 05 22:40 : update: added /Chi Bang Cai Gat Dau - Yan Nguyen [MP3 320kbps].mp3
+Jun 05 22:40 : update: added /Va The La Het Lalala Version 2_ - Soobin [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /Bon Chu Lam - Truc Nhan_ Truong Thao Nhi [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Lonely - 2NE1 [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Marvin Gaye - Charlie Puth_ Meghan Train [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /The Wolf - SIAMES [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Millionaire Alan Walker Remix_ - Alan Wa [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Ngan Ngui ft. Kel C.mp3
+Jun 05 22:40 : update: added /Friends - Marshmello_ Anne-Marie [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Go Go - BTS [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Really Really - Winner [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /I Of The Storm - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Stay With Me - Sam Smith_ Mary J_ Blige [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /1 Phut - Andiez [MP3 320kbps].mp3
+Jun 05 22:40 : update: added /Dirty Work - Austin Mahone [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /CHAC ANH DANG - TIEN TIEN , TRANG ( DARRYS REMIX ).mp3
+Jun 05 22:40 : update: added /Onionn. x marzuz - Nếu.mp3
+Jun 05 22:40 : update: added /Hello - NU_EST [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Warriors - Imagine Dragons [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /TRANSM1T.mp3
+Jun 05 22:40 : update: added /Love Me Harder - Ariana Grande_ The Week [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Talk To Me Co Nen Dung Lai__ - Chi Pu [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /No Promises - Cheat Codes_ Demi Lovato [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Noi Tinh Yeu Bat Dau - Bui Anh Tuan [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /B_S_N_L - Young H_ B Ray [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /[ Mashup ] Ba Da Bum & Like Tokyo - B Ray x Ricky Star.mp3
+Jun 05 22:40 : update: added /Nha Khoi - T-Akayz_ Hoang Anh [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /B_S_N_L 2 Masew Mix_ - B-Ray_ Young-H_ M [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /(16) Baby I'm Wrong - Sea Chains Ft. Cindy Le (OFFICIAL AUDIO).mp3
+Jun 05 22:40 : update: added /Nghỉ Ngơi - Chicken & Fox FT Zephyr.mp3
+Jun 05 22:40 : update: added /Lời Thì Thầm Của Gió_Cheng_-1078060190.mp3
+Jun 05 22:40 : update: added /Lucky - Lenka [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Slow Life - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Tiên Tiên - Đi về đâu [Ivyiron remix].mp3
+Jun 05 22:40 : update: added /Neu Nhu La Dinh Menh - Hoai Lam_ Binz [128kbps_MP3].mp3
+Jun 05 22:40 : update: added /Likey - Twice [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /On Top of the World - Imagine Dragon [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Empty - Winner [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Mine - Bazzi [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /KSHMR ft. Sidnie Tipton - Wildcard (Coone Remix) (Radio Edit) (master 310117).wav
+Jun 05 22:40 : update: added /Em Dạo Này.mp3
+Jun 05 22:40 : update: added /So Hot THEBLACKLABEL Remix_ - BlackPink [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Endless Love - Jackie Chan_ Kim Hee Sun [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Em - FlexEtCheck x hairan.mp3
+Jun 05 22:40 : update: added /Xe Dap - Thuy Chi_ M4U [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Nguyen. x $eth - Anh Muon Nghe Giong Em (CM1X x VRT Remix).mp3
+Jun 05 22:40 : update: added /Roi Xa - Binz_ It_sLee_ Khoi [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Lý Do Anh Say (Feat. LK) - B Ray.mp3
+Jun 05 22:40 : update: added /Organs - Of Monsters And Men [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Havana - Camila Cabello_ Young Thug [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Xin Em - Bui Anh Tuan [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Ai Chờ Ai - FloD Ft. M! (Prod. By Dizzla D).mp3
+Jun 05 22:40 : update: added /What Is Love_ - Twice [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /[Official mp3] Chuyện đời.mp3
+Jun 05 22:40 : update: added /WAY BACK HOME.mp3
+Jun 05 22:40 : update: added /You And I - Park Bom [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Nightcore - Red Lights.mp3
+Jun 05 22:40 : update: added /Đen - Mơ ft. Hậu Vi - Prod. River Beats (Official Audio).mp3
+Jun 05 22:40 : update: added /Thang Tu La Loi Noi Doi Cua Em - Ha Anh [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Starboy - The Weeknd_ Daft Punk [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Daylight - Maroon 5 [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Loving You Sunny - Kimmese Ft Đen ( Prod.by Touliver & JustaTee ).mp3
+Jun 05 22:40 : update: added /Rumor - KARD [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /WARR!OR - All I Want [Chill Trap Exclusive].mp3
+Jun 05 22:40 : update: added /Cung Anh KynBB Remix_ - Ngoc Dolil [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /City Lights - Chau Dang Khoa_ Superbroth [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Dusk Till Dawn - ZAYN_ Sia [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Error - VIXX [320kbps_MP3].mp3
+Jun 05 22:40 : update: added /Xin Dung Lang Im - Soobin Hoang Son [320kbps_MP3].mp3
+Jun 05 22:40 : client: [2] opened from 127.0.0.1:34518
+Jun 05 22:41 : client: [2] closed
+Jun 05 22:41 : client: [3] opened from 127.0.0.1:34536
+Jun 05 22:42 : client: [0] closed
+Jun 05 22:42 : client: [4] opened from 127.0.0.1:34538
+Jun 05 22:42 : exception: No such directory
+Jun 05 22:42 : exception: Failed to open /home/dlha/.mpd/playlists/a.m3u: No such file or directory
+Jun 05 22:42 : exception: No such playlist
+Jun 05 22:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 05 22:43 : player: played "여전해 (feat. seizetheday).mp3"
+Jun 05 22:44 : client: [3] closed
+Jun 05 22:44 : client: [5] opened from 127.0.0.1:34540
+Jun 05 22:44 : client: [5] closed
+Jun 05 22:44 : player: played "(16) Baby I'm Wrong - Sea Chains Ft. Cindy Le (OFFICIAL AUDIO).mp3"
+Jun 06 07:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 07:56 : config: option 'device' on line 13 was not recognized
+Jun 06 07:56 : client: [0] opened from 127.0.0.1:38268
+Jun 06 07:57 : client: [0] closed
+Jun 06 07:57 : client: [1] opened from 127.0.0.1:38270
+Jun 06 07:59 : client: [2] opened from 127.0.0.1:38308
+Jun 06 07:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 07:59 : client: [2] closed
+Jun 06 08:00 : client: [3] opened from 127.0.0.1:38312
+Jun 06 08:03 : player: played "[ Mashup ] Ba Da Bum & Like Tokyo - B Ray x Ricky Star.mp3"
+Jun 06 08:03 : client: [4] opened from 127.0.0.1:38328
+Jun 06 08:03 : client: [4] closed
+Jun 06 08:03 : client: [5] opened from 127.0.0.1:38330
+Jun 06 08:03 : client: [5] closed
+Jun 06 08:07 : player: played "(16) Baby I'm Wrong - Sea Chains Ft. Cindy Le (OFFICIAL AUDIO).mp3"
+Jun 06 08:08 : client: [3] closed
+Jun 06 08:10 : player: played "[ Mashup ] Ba Da Bum & Like Tokyo - B Ray x Ricky Star.mp3"
+Jun 06 08:15 : player: played "Waiting For Love - Avicii_ Martin Garrix [320kbps_MP3].mp3"
+Jun 06 08:18 : client: [6] opened from 127.0.0.1:38498
+Jun 06 08:18 : client: [6] closed
+Jun 06 08:18 : client: [7] opened from 127.0.0.1:38502
+Jun 06 08:18 : client: [7] closed
+Jun 06 08:19 : client: [8] opened from 127.0.0.1:38506
+Jun 06 08:19 : client: [8] closed
+Jun 06 08:19 : client: [9] opened from 127.0.0.1:38510
+Jun 06 08:19 : client: [9] closed
+Jun 06 08:19 : client: [10] opened from 127.0.0.1:38514
+Jun 06 08:19 : client: [10] closed
+Jun 06 08:19 : client: [11] opened from 127.0.0.1:38518
+Jun 06 08:19 : client: [11] closed
+Jun 06 08:19 : client: [12] opened from 127.0.0.1:38522
+Jun 06 08:19 : client: [12] closed
+Jun 06 08:19 : client: [13] opened from 127.0.0.1:38526
+Jun 06 08:19 : client: [13] closed
+Jun 06 08:19 : client: [14] opened from 127.0.0.1:38530
+Jun 06 08:19 : client: [14] closed
+Jun 06 08:23 : client: [15] opened from 127.0.0.1:38558
+Jun 06 08:23 : client: [15] closed
+Jun 06 08:23 : player: played "HAZARD CLIQUE - BỐN BA HAI MỘT (prod. by MR. BOOMBA).mp3"
+Jun 06 08:24 : client: [16] opened from 127.0.0.1:38582
+Jun 06 08:24 : client: [16] closed
+Jun 06 08:26 : client: [17] opened from 127.0.0.1:38606
+Jun 06 08:26 : client: [17] closed
+Jun 06 08:26 : client: [18] opened from 127.0.0.1:38608
+Jun 06 08:26 : client: [18] closed
+Jun 06 08:26 : client: [19] opened from 127.0.0.1:38610
+Jun 06 08:26 : client: [19] closed
+Jun 06 08:27 : client: [20] opened from 127.0.0.1:38614
+Jun 06 08:27 : client: [20] closed
+Jun 06 08:27 : player: played "I Feel It Coming - The Weeknd_ Daft Punk [320kbps_MP3].mp3"
+Jun 06 08:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 08:28 : config: option 'device' on line 13 was not recognized
+Jun 06 08:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 08:28 : client: [0] opened from 127.0.0.1:34186
+Jun 06 08:29 : player: played "I Feel It Coming - The Weeknd_ Daft Punk [320kbps_MP3].mp3"
+Jun 06 08:31 : client: [0] closed
+Jun 06 08:31 : client: [1] opened from 127.0.0.1:34202
+Jun 06 08:32 : client: [1] closed
+Jun 06 08:32 : client: [2] opened from 127.0.0.1:34204
+Jun 06 08:32 : client: [2] closed
+Jun 06 08:32 : client: [3] opened from 127.0.0.1:34206
+Jun 06 08:33 : client: [3] closed
+Jun 06 08:35 : player: played "Khi Nguoi Lon Co Don - Pham Hong Phuoc [128kbps_MP3].mp3"
+Jun 06 08:39 : player: played "Starboy - The Weeknd_ Daft Punk [320kbps_MP3].mp3"
+Jun 06 08:43 : player: played "Bon Chu Lam - Truc Nhan_ Truong Thao Nhi [320kbps_MP3].mp3"
+Jun 06 08:46 : player: played "Trai Tim Anh Cung Biet Dau - Mr Siro [320kbps_MP3].mp3"
+Jun 06 08:46 : client: [4] opened from 127.0.0.1:34284
+Jun 06 08:47 : client: [4] closed
+Jun 06 08:47 : client: [5] opened from 127.0.0.1:34286
+Jun 06 08:47 : client: [6] opened from 127.0.0.1:34288
+Jun 06 08:47 : client: [6] closed
+Jun 06 08:47 : client: [7] opened from 127.0.0.1:34290
+Jun 06 08:47 : client: [7] closed
+Jun 06 08:48 : client: [8] opened from 127.0.0.1:34300
+Jun 06 08:48 : client: [8] closed
+Jun 06 08:48 : client: [9] opened from 127.0.0.1:34302
+Jun 06 08:48 : client: [9] closed
+Jun 06 08:49 : player: played "Sammy Seagull - Flying High [Chill Trap Release].mp3"
+Jun 06 08:49 : client: [10] opened from 127.0.0.1:34304
+Jun 06 08:49 : client: [10] closed
+Jun 06 08:50 : client: [5] closed
+Jun 06 08:50 : client: [11] opened from 127.0.0.1:34306
+Jun 06 08:52 : client: [11] closed
+Jun 06 08:52 : client: [12] opened from 127.0.0.1:34342
+Jun 06 08:53 : player: played "BBoom BBoom - Momoland [320kbps_MP3].mp3"
+Jun 06 08:54 : client: [12] closed
+Jun 06 08:54 : client: [13] opened from 127.0.0.1:34356
+Jun 06 08:55 : client: [13] closed
+Jun 06 08:55 : client: [14] opened from 127.0.0.1:34358
+Jun 06 08:55 : client: [15] opened from 127.0.0.1:34360
+Jun 06 08:55 : client: [15] closed
+Jun 06 08:55 : client: [16] opened from 127.0.0.1:34362
+Jun 06 08:55 : client: [16] closed
+Jun 06 08:56 : player: played "Wolves Without Teeth - Of Monsters And M [320kbps_MP3].mp3"
+Jun 06 09:00 : client: [17] opened from 127.0.0.1:34430
+Jun 06 09:00 : client: [17] closed
+Jun 06 09:00 : client: [18] opened from 127.0.0.1:34432
+Jun 06 09:00 : client: [18] closed
+Jun 06 09:00 : client: [19] opened from 127.0.0.1:34436
+Jun 06 09:00 : client: [19] closed
+Jun 06 09:03 : player: played "Brayniacs - B Ray ( Masew Mix ).mp3"
+Jun 06 09:03 : client: [20] opened from 127.0.0.1:34456
+Jun 06 09:03 : client: [20] closed
+Jun 06 09:04 : client: [21] opened from 127.0.0.1:34458
+Jun 06 09:04 : client: [21] closed
+Jun 06 09:05 : player: played "Jay Park 박재범 - ALL I WANNA DO (K) (Feat. Hoody, Loco).mp3"
+Jun 06 09:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 09:06 : exception: Failed to enable output "pulse audio" [pulse]
+Jun 06 09:06 : exception: nested: pa_context_connect() has failed: Connection refused
+Jun 06 09:06 : exception: Failed to enable output "pulse audio" [pulse]
+Jun 06 09:06 : exception: nested: pa_context_connect() has failed: Connection refused
+Jun 06 09:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 09:06 : config: option 'device' on line 13 was not recognized
+Jun 06 09:06 : exception: Failed to enable output "pulse audio" [pulse]
+Jun 06 09:06 : exception: nested: pa_context_connect() has failed: Connection refused
+Jun 06 09:06 : client: [0] opened from 127.0.0.1:42062
+Jun 06 09:06 : client: [1] opened from 127.0.0.1:42064
+Jun 06 09:06 : client: [1] closed
+Jun 06 09:06 : client: [2] opened from 127.0.0.1:42066
+Jun 06 09:06 : exception: Failed to enable output "pulse audio" [pulse]
+Jun 06 09:06 : exception: nested: pa_context_connect() has failed: Connection refused
+Jun 06 09:06 : client: [2] closed
+Jun 06 09:08 : client: [3] opened from 127.0.0.1:42076
+Jun 06 09:08 : client: [3] closed
+Jun 06 09:08 : client: [4] opened from 127.0.0.1:42078
+Jun 06 09:08 : exception: Failed to enable output "pulse audio" [pulse]
+Jun 06 09:08 : exception: nested: pa_context_connect() has failed: Connection refused
+Jun 06 09:08 : client: [4] closed
+Jun 06 09:08 : client: [5] opened from 127.0.0.1:42082
+Jun 06 09:08 : client: [5] closed
+Jun 06 09:08 : player: played "Jay Park 박재범 - ALL I WANNA DO (K) (Feat. Hoody, Loco).mp3"
+Jun 06 09:08 : exception: Failed to enable output "pulse audio" [pulse]
+Jun 06 09:08 : exception: nested: pa_context_connect() has failed: Connection refused
+Jun 06 09:13 : player: played "Em có đợi tin nhắn tôi không - Hải Sâm.mp3"
+Jun 06 09:13 : exception: Failed to enable output "pulse audio" [pulse]
+Jun 06 09:13 : exception: nested: pa_context_connect() has failed: Connection refused
+Jun 06 09:16 : player: played "Trai Qua - Khoi My_ Pudding Vu [320kbps_MP3].mp3"
+Jun 06 09:16 : exception: Failed to enable output "pulse audio" [pulse]
+Jun 06 09:16 : exception: nested: pa_context_connect() has failed: Connection refused
+Jun 06 09:18 : client: [6] opened from 127.0.0.1:42104
+Jun 06 09:18 : client: [6] closed
+Jun 06 09:20 : client: [7] opened from 127.0.0.1:42142
+Jun 06 09:20 : client: [7] closed
+Jun 06 09:20 : client: [8] opened from 127.0.0.1:42144
+Jun 06 09:20 : client: [8] closed
+Jun 06 09:21 : client: [9] opened from 127.0.0.1:42146
+Jun 06 09:21 : client: [9] closed
+Jun 06 09:22 : client: [0] closed
+Jun 06 09:22 : client: [10] opened from 127.0.0.1:42148
+Jun 06 09:22 : player: played "Cung Anh KynBB Remix_ - Ngoc Dolil [320kbps_MP3].mp3"
+Jun 06 09:22 : exception: "pulse audio" [pulse] failed to play: disconnected
+Jun 06 09:22 : player: played "Gui Anh Xa Nho - Bich Phuong [320kbps_MP3].mp3"
+Jun 06 09:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 09:23 : config: option 'device' on line 13 was not recognized
+Jun 06 09:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 09:23 : client: [0] opened from 127.0.0.1:55696
+Jun 06 09:23 : client: [1] opened from 127.0.0.1:55700
+Jun 06 09:23 : client: [1] closed
+Jun 06 09:24 : client: [2] opened from 127.0.0.1:55704
+Jun 06 09:24 : client: [2] closed
+Jun 06 09:24 : client: [3] opened from 127.0.0.1:55708
+Jun 06 09:24 : player: played "Go Go - BTS [320kbps_MP3].mp3"
+Jun 06 09:24 : client: [3] closed
+Jun 06 09:24 : client: [4] opened from 127.0.0.1:55712
+Jun 06 09:24 : client: [4] closed
+Jun 06 09:24 : client: [5] opened from 127.0.0.1:55716
+Jun 06 09:24 : client: [5] closed
+Jun 06 09:24 : client: [6] opened from 127.0.0.1:55720
+Jun 06 09:24 : client: [6] closed
+Jun 06 09:24 : client: [7] opened from 127.0.0.1:55724
+Jun 06 09:24 : client: [7] closed
+Jun 06 09:24 : client: [8] opened from 127.0.0.1:55728
+Jun 06 09:24 : client: [8] closed
+Jun 06 09:24 : client: [9] opened from 127.0.0.1:55732
+Jun 06 09:24 : client: [9] closed
+Jun 06 09:24 : client: [10] opened from 127.0.0.1:55736
+Jun 06 09:24 : client: [10] closed
+Jun 06 09:24 : client: [11] opened from 127.0.0.1:55740
+Jun 06 09:24 : client: [11] closed
+Jun 06 09:24 : client: [12] opened from 127.0.0.1:55744
+Jun 06 09:24 : client: [12] closed
+Jun 06 09:24 : client: [13] opened from 127.0.0.1:55748
+Jun 06 09:24 : client: [13] closed
+Jun 06 09:24 : client: [14] opened from 127.0.0.1:55752
+Jun 06 09:24 : client: [14] closed
+Jun 06 09:24 : client: [0] closed
+Jun 06 09:24 : client: [15] opened from 127.0.0.1:55754
+Jun 06 09:24 : client: [16] opened from 127.0.0.1:55758
+Jun 06 09:24 : client: [16] closed
+Jun 06 09:27 : client: [17] opened from 127.0.0.1:55796
+Jun 06 09:27 : client: [17] closed
+Jun 06 09:28 : player: played "Go Go - BTS [320kbps_MP3].mp3"
+Jun 06 09:29 : client: [18] opened from 127.0.0.1:55816
+Jun 06 09:29 : client: [18] closed
+Jun 06 09:29 : client: [19] opened from 127.0.0.1:55820
+Jun 06 09:29 : client: [19] closed
+Jun 06 09:29 : client: [20] opened from 127.0.0.1:55824
+Jun 06 09:29 : client: [20] closed
+Jun 06 09:29 : client: [21] opened from 127.0.0.1:55828
+Jun 06 09:29 : client: [21] closed
+Jun 06 09:29 : client: [22] opened from 127.0.0.1:55832
+Jun 06 09:29 : client: [22] closed
+Jun 06 09:29 : client: [23] opened from 127.0.0.1:55836
+Jun 06 09:29 : client: [23] closed
+Jun 06 09:29 : client: [24] opened from 127.0.0.1:55840
+Jun 06 09:29 : client: [24] closed
+Jun 06 09:29 : client: [25] opened from 127.0.0.1:55844
+Jun 06 09:29 : client: [25] closed
+Jun 06 09:29 : client: [26] opened from 127.0.0.1:55848
+Jun 06 09:29 : client: [26] closed
+Jun 06 09:29 : client: [27] opened from 127.0.0.1:55852
+Jun 06 09:29 : client: [27] closed
+Jun 06 09:29 : client: [28] opened from 127.0.0.1:55856
+Jun 06 09:29 : client: [28] closed
+Jun 06 09:29 : client: [29] opened from 127.0.0.1:55860
+Jun 06 09:29 : client: [29] closed
+Jun 06 09:29 : client: [30] opened from 127.0.0.1:55864
+Jun 06 09:29 : client: [30] closed
+Jun 06 09:31 : client: [31] opened from 127.0.0.1:55892
+Jun 06 09:31 : client: [31] closed
+Jun 06 09:32 : player: played "Chua Bao Gio - Trung Quan [320kbps_MP3].mp3"
+Jun 06 09:35 : client: [32] opened from 127.0.0.1:55928
+Jun 06 09:35 : client: [32] closed
+Jun 06 09:35 : client: [33] opened from 127.0.0.1:55932
+Jun 06 09:35 : client: [33] closed
+Jun 06 09:35 : client: [34] opened from 127.0.0.1:55936
+Jun 06 09:35 : client: [34] closed
+Jun 06 09:35 : client: [35] opened from 127.0.0.1:55940
+Jun 06 09:35 : client: [35] closed
+Jun 06 09:35 : client: [36] opened from 127.0.0.1:55944
+Jun 06 09:35 : client: [36] closed
+Jun 06 09:35 : client: [37] opened from 127.0.0.1:55948
+Jun 06 09:35 : client: [37] closed
+Jun 06 09:35 : client: [38] opened from 127.0.0.1:55952
+Jun 06 09:35 : client: [38] closed
+Jun 06 09:36 : client: [39] opened from 127.0.0.1:55960
+Jun 06 09:36 : client: [39] closed
+Jun 06 09:37 : client: [40] opened from 127.0.0.1:55964
+Jun 06 09:37 : client: [40] closed
+Jun 06 09:40 : player: played "Lac Nhau Co Phai Muon Doi - Erik [320kbps_MP3].mp3"
+Jun 06 09:41 : player: played "Hardwell feat. Jake Reese - Mad World (Sephyx Remix) [OUT NOW!].mp3"
+Jun 06 09:45 : player: played "[And July] Heize (헤이즈)(Feat. DEAN & DJ Friz) - And July.mp3"
+Jun 06 09:49 : client: [41] opened from 127.0.0.1:56108
+Jun 06 09:49 : client: [41] closed
+Jun 06 09:52 : player: played "Dập Ghim - Hoá Đơn (Original).mp3"
+Jun 06 09:55 : player: played "What About Love - Austin Mahone [320kbps_MP3].mp3"
+Jun 06 09:56 : client: [42] opened from 127.0.0.1:56526
+Jun 06 09:56 : client: [42] closed
+Jun 06 10:00 : player: played "Lang Yen - Bui Anh Tuan_ Ai Phuong [320kbps_MP3].mp3"
+Jun 06 10:05 : player: played "Dirty Paws - Of Monsters And Men [320kbps_MP3].mp3"
+Jun 06 10:05 : client: [43] opened from 127.0.0.1:56794
+Jun 06 10:05 : client: [43] closed
+Jun 06 10:05 : client: [44] opened from 127.0.0.1:56798
+Jun 06 10:05 : client: [44] closed
+Jun 06 10:05 : client: [45] opened from 127.0.0.1:56802
+Jun 06 10:05 : client: [45] closed
+Jun 06 10:06 : player: played "Stay With You - Cheat Codes & Cade.mp3"
+Jun 06 11:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 11:27 : config: option 'device' on line 13 was not recognized
+Jun 06 11:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 11:27 : client: [0] opened from 127.0.0.1:54830
+Jun 06 11:30 : client: [0] closed
+Jun 06 11:30 : client: [1] opened from 127.0.0.1:54832
+Jun 06 11:30 : player: played "Stay With You - Cheat Codes & Cade.mp3"
+Jun 06 11:31 : client: [1] closed
+Jun 06 11:31 : client: [2] opened from 127.0.0.1:54834
+Jun 06 11:31 : client: [2] closed
+Jun 06 11:31 : client: [3] opened from 127.0.0.1:54836
+Jun 06 11:31 : client: [3] closed
+Jun 06 11:31 : client: [4] opened from 127.0.0.1:54838
+Jun 06 11:32 : client: [4] closed
+Jun 06 11:32 : client: [5] opened from 127.0.0.1:54844
+Jun 06 11:32 : client: [5] closed
+Jun 06 11:32 : client: [6] opened from 127.0.0.1:54846
+Jun 06 11:33 : client: [6] closed
+Jun 06 11:33 : client: [7] opened from 127.0.0.1:54848
+Jun 06 11:34 : player: played "Gravity Falls Theme Song (OVA Remix).mp3"
+Jun 06 11:34 : client: [8] opened from 127.0.0.1:54852
+Jun 06 11:34 : client: [8] closed
+Jun 06 11:38 : player: played "Em - FlexEtCheck x hairan.mp3"
+Jun 06 11:38 : client: [7] closed
+Jun 06 11:38 : client: [9] opened from 127.0.0.1:54886
+Jun 06 11:38 : client: [9] closed
+Jun 06 11:38 : client: [10] opened from 127.0.0.1:54888
+Jun 06 11:38 : client: [10] closed
+Jun 06 11:38 : client: [11] opened from 127.0.0.1:54890
+Jun 06 11:41 : client: [11] closed
+Jun 06 11:41 : client: [12] opened from 127.0.0.1:54892
+Jun 06 11:41 : client: [12] closed
+Jun 06 11:41 : client: [13] opened from 127.0.0.1:54894
+Jun 06 11:41 : client: [13] closed
+Jun 06 11:41 : client: [14] opened from 127.0.0.1:54896
+Jun 06 11:41 : client: [14] closed
+Jun 06 11:41 : client: [15] opened from 127.0.0.1:54898
+Jun 06 11:41 : client: [15] closed
+Jun 06 11:41 : client: [16] opened from 127.0.0.1:54900
+Jun 06 11:41 : client: [16] closed
+Jun 06 11:41 : client: [17] opened from 127.0.0.1:54902
+Jun 06 11:41 : client: [17] closed
+Jun 06 11:41 : client: [18] opened from 127.0.0.1:54904
+Jun 06 11:41 : exception: "pulse audio" [pulse] failed to play: disconnected
+xcb_connection_has_error() returned true
+Jun 06 11:41 : exception: Failed to open "pulse audio" [pulse]
+Jun 06 11:41 : exception: nested: pa_context_connect() has failed: Connection refused
+Jun 06 11:41 : player: played "Lam Vo Anh Nhe - Chi Dan [320kbps_MP3].mp3"
+Jun 06 16:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 16:27 : config: option 'device' on line 13 was not recognized
+Jun 06 16:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 16:27 : client: [0] opened from 127.0.0.1:42072
+Jun 06 16:27 : client: [0] closed
+Jun 06 16:27 : client: [1] opened from 127.0.0.1:42074
+Jun 06 16:27 : player: played "Lam Vo Anh Nhe - Chi Dan [320kbps_MP3].mp3"
+Jun 06 16:27 : client: [2] opened from 127.0.0.1:42080
+Jun 06 16:27 : client: [2] closed
+Jun 06 16:27 : client: [3] opened from 127.0.0.1:42084
+Jun 06 16:27 : client: [3] closed
+Jun 06 16:32 : player: played "Counting Stars - OneRepublic [320kbps_MP3].mp3"
+Jun 06 16:35 : player: played "your text.mp3"
+Jun 06 16:35 : client: [1] closed
+Jun 06 16:35 : client: [4] opened from 127.0.0.1:42214
+Jun 06 16:35 : client: [4] closed
+Jun 06 16:36 : client: [5] opened from 127.0.0.1:42216
+Jun 06 16:37 : client: [5] closed
+Jun 06 16:37 : exception: "pulse audio" [pulse] failed to play: suspended
+Jun 06 16:37 : client: [6] opened from 127.0.0.1:42222
+Jun 06 16:37 : client: [7] opened from 127.0.0.1:42226
+Jun 06 16:37 : client: [7] closed
+Jun 06 16:37 : client: [8] opened from 127.0.0.1:42230
+Jun 06 16:37 : client: [8] closed
+Jun 06 16:38 : client: [6] closed
+Jun 06 16:38 : client: [9] opened from 127.0.0.1:42232
+Jun 06 16:39 : player: played "It Ain_t Me - Kygo_ Selena Gomez [320kbps_MP3].mp3"
+Jun 06 16:39 : client: [9] closed
+Jun 06 16:39 : client: [10] opened from 127.0.0.1:42234
+Jun 06 16:40 : client: [10] closed
+Jun 06 16:40 : exception: "pulse audio" [pulse] failed to play: suspended
+Jun 06 16:40 : client: [11] opened from 127.0.0.1:42236
+Jun 06 16:41 : client: [12] opened from 127.0.0.1:42240
+Jun 06 16:41 : client: [12] closed
+Jun 06 16:41 : client: [13] opened from 127.0.0.1:42244
+Jun 06 16:41 : client: [13] closed
+Jun 06 16:42 : player: played "Steve Aoki & Louis Tomlinson - Just Hold On (Two Friends Remix).mp3"
+Jun 06 16:46 : player: played "Shots - Imagine Dragons [320kbps_MP3].mp3"
+Jun 06 16:50 : player: played "Likey - Twice [320kbps_MP3].mp3"
+Jun 06 16:53 : player: played "Mmm Yeah - Austin Mahone_ Pitbull [320kbps_MP3].mp3"
+Jun 06 16:58 : player: played "Empire - Of Monsters And Men [320kbps_MP3].mp3"
+Jun 06 16:58 : client: [14] opened from 127.0.0.1:42454
+Jun 06 16:58 : client: [14] closed
+Jun 06 16:58 : client: [15] opened from 127.0.0.1:42458
+Jun 06 16:58 : client: [15] closed
+Jun 06 16:58 : client: [16] opened from 127.0.0.1:42462
+Jun 06 16:58 : client: [16] closed
+Jun 06 17:01 : player: played "Lady - EXID [320kbps_MP3].mp3"
+Jun 06 17:01 : client: [17] opened from 127.0.0.1:42474
+Jun 06 17:01 : client: [17] closed
+Jun 06 17:05 : player: played "Starboy - The Weeknd_ Daft Punk [320kbps_MP3].mp3"
+Jun 06 17:05 : client: [18] opened from 127.0.0.1:42510
+Jun 06 17:05 : client: [18] closed
+Jun 06 17:09 : player: played "The Wolf - SIAMES [320kbps_MP3].mp3"
+Jun 06 17:09 : client: [19] opened from 127.0.0.1:42528
+Jun 06 17:09 : client: [19] closed
+Jun 06 17:13 : player: played "No Promises - Cheat Codes_ Demi Lovato [320kbps_MP3].mp3"
+Jun 06 17:18 : player: played "Hôm Nay Tôi Buồn - Phùng Khánh Linh (Original).mp3"
+Jun 06 17:18 : client: [20] opened from 127.0.0.1:42672
+Jun 06 17:18 : client: [20] closed
+Jun 06 17:22 : player: played "Twilight Meadow - The Worlds We Discovered (Pegato Remix)Free download.mp3"
+Jun 06 17:25 : player: played "Về với em đi - Tiên Tiên ( KSK & Darrys remix ).mp3"
+Jun 06 17:29 : player: played "B.o.B - Airplanes ft. Hayley Williams (AndyWho Remix).mp3"
+Jun 06 17:33 : player: played "(16) Baby I'm Wrong - Sea Chains Ft. Cindy Le (OFFICIAL AUDIO).mp3"
+Jun 06 17:38 : player: played "Lac Nhau Co Phai Muon Doi - Erik [320kbps_MP3].mp3"
+Jun 06 17:42 : player: played "B_S_N_L - Young H_ B Ray [320kbps_MP3].mp3"
+Jun 06 17:47 : player: played "Anh Se Tot Ma - Pham Hong Phuoc_ Thuy Ch [128kbps_MP3].mp3"
+Jun 06 17:51 : player: played "여전해 (feat. seizetheday).mp3"
+Jun 06 17:56 : player: played "Lana Del Rey - Born To Die (Absence Remix).mp3"
+Jun 06 17:59 : player: played "Cung Anh KynBB Remix_ - Ngoc Dolil [320kbps_MP3].mp3"
+Jun 06 18:03 : player: played "Lay Me Down - Sam Smith [320kbps_MP3].mp3"
+Jun 06 18:07 : player: played "I Know - Duong Edward_ Mr_ A [320kbps_MP3].mp3"
+Jun 06 18:12 : player: played "Gia Co The Om Ai Va Khoc - Pham Hong Phu [320kbps_MP3].mp3"
+Jun 06 18:15 : client: [21] opened from 127.0.0.1:43356
+Jun 06 18:15 : client: [21] closed
+Jun 06 20:15 : client: [11] closed
+Jun 06 20:15 : client: [22] opened from 127.0.0.1:44500

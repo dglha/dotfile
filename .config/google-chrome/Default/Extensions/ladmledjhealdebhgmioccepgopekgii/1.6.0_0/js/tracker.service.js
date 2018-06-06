@@ -1,0 +1,1 @@
+!function(t){"use strict";var e="https://api.mixpanel.com",n={token:"bf1ce34cb275d307772d7fc80f076525",browser:"extension/plugin"};t.tracker={track:function(t,r){var i={event:t,properties:$.extend(n,r)},a=window.base64(JSON.stringify(i)),c=e+"/track?data="+a;return $.get(c)}}}(window);

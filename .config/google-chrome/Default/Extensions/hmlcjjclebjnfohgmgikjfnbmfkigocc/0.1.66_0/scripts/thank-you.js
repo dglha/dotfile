@@ -1,0 +1,1 @@
+"use strict";!function(e){"vi"===e.i18n.getUILanguage()&&(document.getElementById("thank-you-en").style.display="none",document.getElementById("thank-you-vi").classList.remove("hidden")),e.runtime.sendMessage({cmd:"track_page_view",path:"/thank-you.html"})}(chrome);
