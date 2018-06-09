@@ -3,5 +3,5 @@
 
 config_version: 2
 settings:
-  url.start_pages:
-    global: google.com.vn
+  statusbar.position:
+    global: bottom

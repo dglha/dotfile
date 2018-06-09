@@ -6,13 +6,20 @@
 super + Return
 	urxvt
 
+alt + {_,shift +}f
+	qutebrowser
+#Lock screen
+super + alt + l
+	betterlockscreen -l 
+
 # program launcher
 #uper + @space
 
 #dmenu_run
 
-super + d 
-	rofi -show drun 
+super + d
+	rofi -show drun
+ 
 alt + d 
 	rofi-pass
 

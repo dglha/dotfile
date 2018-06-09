@@ -1,5 +1,4 @@
 # Dark theme.
 rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
 
-rofi.font:          Noto Sans 10
-rofi.modi:          combi
+rofi.font:          Roboto 12
